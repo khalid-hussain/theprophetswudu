@@ -1,18 +1,4 @@
 
-THE DEFINITION OF WUDOO
-=======================
-
- Wudoo in the Arabic Language:
- 
- Wudoo is the action, and wadoo the water used therefor - and it is
- also a verbal noun; or they are two forms of the same word, both
- meaning the verbal-noun and maybe both referring also to the water
- used.
- 
- Wudoo in the Sharee'ah:
- 
- Wudoo is using clean and cleansing (Tuhoor) water upon certain body
- parts as Allah ta'ala has prescribed and explained.
 
 THE PRESCRIPTION OF WUDOO IN THE KITAAB AND SUNNAH:
 ===================================================
