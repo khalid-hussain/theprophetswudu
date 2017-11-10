@@ -1,37 +1,5 @@
 
 
-THE PRESCRIPTION OF WUDOO IN THE KITAAB AND SUNNAH:
-===================================================
-
- Allah ta'ala says: O Ye who believe! When ye prepare for prayer, wash
- your faces, and your hands (and arms) to the elbows; rub your heads
- (with water); and (wash) your feet to the ankles \[soorat-ul-Maa'idah,
- 5:7\]
-
-1. Abu Hurairah (radhiAllahu'anhu) said: Rasoolullah (sallallaahu
-  'alaihi wa sallam) said: **The Prayer of anyone of you breaching
-  purification is not accepted unless he makes wudoo.**
-  \[Al-Bukhaaree, (Fath ul-Baaree, 1/206), Muslim (no.225) and
-  others\].
-
-2. Ibn 'Umar (radhiAllahu 'anhumaa) said: Indeed I heard Rasoolullah
-  (sallallaahu 'alaihi wa sallam) say: **Allah does not accept Prayer
-  without purification, nor Sadaqah from illegally attained wealth.**
-  \[Muslim (1/160) and others\].
-
-3. Ibn 'Abbaas (radhiAllahu 'anhumaa) said: Rasolullah (sallallaahu
-  'alaihi wa sallam) said: **Verily I have been ordered to make wudoo
-  when I stand for Prayer**. \[Saheeh. Reported by Abu Dawood
-  (no.3760); at-Tirmidhee (no.1848), and he declared it to be
-  'hasan-saheeh': an-Nasaa.ee (1/73). And Shaikh al-Albaanee declares
-  it to be 'saheeh' ('Saheeh ul-Jaami', no.2333)\].
-
-4. Abu Sa'eed (radhiAllahu 'anhu) said: Rasoolullah (sallallaahu
-  'alaihi wa sallam) said: **The key to Prayer is purification, its
-  'tahreem' \[1\] is the takbeer and its 'tahleel' \[2\] is the giving
-  salaam.** \[Reported by Abu Dawood (no.60); at- Tirmidhee (no.3);
-  Ibn Maajah (no.275) and others. Declared as 'saheeh' by Shaikh
-  al-Albaanee: ('Saheeh ul-Jaami', no.5761)\].
 
 THE EXCELLENCE OF WUDOO
 =======================

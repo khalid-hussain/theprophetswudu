@@ -3,7 +3,7 @@ documentclass: memoir
 documentclassoptions: ebook
 fontsize: 14pt
 title: The Prophet's Wuḍū
-mainfont: Myriad Arabic
+mainfont: Minion Pro
 ---
 
 # Introduction
@@ -31,10 +31,29 @@ I ask Allah to guide us to that which is proper. Verily He is the One having aut
 
 # The Definition of Wuḍū
 
-_Wuḍū_ in the Arabic Language:
+## Arabic Language
 
 _Wuḍū_ is the action, and _Waḍū_ the water used therefore---and it is also a verbal noun; or they are two forms of the same word, both meaning the verbal-noun and maybe both referring also to the water used.
  
-_Wuḍū_ in the Shariah:
+## Shariah
  
 _Wuḍū_ is using clean and cleansing (_ṭuhūr_) water upon certain body parts as Allah has prescribed and explained.
+
+
+# The Prescription of Wuḍū in the Kitāb and Sunnah
+
+Allah says,
+
+> O Ye who believe! When ye prepare for prayer, wash your faces,
+> and your hands (and arms) to the elbows; rub your heads (with water);
+> and (wash) your feet to the ankles.
+> (Sūrah al-Māʾidah, Q5:7)
+
+1. Abū Hurayrah \mabpwhim said: The Emissary of Allah \pbuh said, “The _ṣalāh_ of anyone of you breaching purification is not accepted unless he makes wuḍū.”[^1]
+
+2. Ibn ʿUmar \mabpwthemtwo said: Indeed I heard the Emissary of Allah \pbuh say, “Allah does not accept _ṣalāh_ without purification, nor _ṣadaqah_ from illegally attained wealth.”[^2]
+
+3. Ibn ʿAbbās \mabpwthemtwo said: The Emissary of Allah \pbuh said, “Verily I have been ordered to make _wuḍū_ when I stand for _ṣalāh_.”[^3]
+
+4. Abū Saʿīd \mabpwhim said: The Emissary of Allah \pbuh said, “The key to _ṣalāh_ is purification, its _taḥrīm_[^4] is the _takbīr_ and its _taḥlīl_[^5] is the giving of _salām_.”[^6]
+
