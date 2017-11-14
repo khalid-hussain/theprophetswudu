@@ -153,3 +153,67 @@ Allah says,
   ‘Whoever makes _wuḍū_ in the same way that I have just made _wuḍū_ then
   stands up and prays two _rakʿahs_, not thinking of other things, then
   his previous sins are forgiven.’”[^20]
+
+# The Components of Wuḍū
+
+## Al-Niyyah (Intention)
+
+This is the firm resolve of the heart to perform
+_wuḍū_ in obedience to the order of Allah \swt and His Emissary
+\pbuh. Ibn Taymiyyah \mercy said in _Majmūʿah al-Rasāʾil al-Kubrā_ (1/243):
+“The place of the _niyyah_ is the heart and not the tongue in all forms of
+_ʿibādah_---and that is agreed upon by all the Muslim scholars---Purification,
+_Ṣalāh_, _Zakāt_, _Ṣawm_, _Ḥajj_, _ʿItq_ (freeing of slaves), _Jihād_, etc.
+If he were to express with his tongue other than that which he intended in
+his heart---then what he intended is counted, not what he said. If he voiced the
+intention with his tongue and the intention was not in his heart, that
+will not count---by total agreement of all the scholars of Islam---so
+the _niyyah_ is the firm intention and resolve itself.”
+
+As the Emissary of Allah \pbuh himself explained in the _ḥadīth_ narrated by ʿUmar \mabpwhim
+in the _Ṣaḥīḥayn_, “Verily the actions are by intention and there is for everyone only
+what he intended...”[^21]
+
+## Al-Tasmiyyah (Mentioning Allah's Name)
+
+1. Abū Hurayrah \mabpwhim said that the Emissary of Allah \pbuh
+  said “There is no _wuḍū_ for him who does not mention Allah's name
+  upon it.”[^22]
+
+    Imam Aḥmad in one of his two sayings is of the opinion that it is
+    obligatory in _wuḍū_, _ghusl_, and _tayammum_. He was followed in this
+    opinion by Abū Bakr, and it is the saying of al-Ḥasan al-Baṣrī and
+    Imam Isḥāq---as reported by Ibn Qudāmah in _al-Mughnī_ (1/84), and
+    their proof is this _ḥadīth_.
+ 
+    Ibn Qudāmah adds in _al-Mughnī_: If we take the saying that it is
+    obligatory,then the _wuḍū_ of one who deliberately leaves it is not
+    correct as he has left an obligatory duty in Purification---just as
+    if he had left the intention; and if he left it forgetfully then his
+    purification is correct. And this is the saying that we regard as
+    being correct.
+
+    As for Ibn Taymiyyah \mercy, he held it to be obligatory if the
+    related _ḥadīth_ was authentic---as occurs in his _Kitāb al-Īmān_---
+    and the _ḥadīth_ is authentic, so therefore his opinion is that it is
+    obligatory.
+
+2. Al-Bukhārī and Muslim report from Anas \mabpwhim that some of the
+    Companions of the Prophet \pbuh sought water for _wuḍū_, so the Emissary
+    of Allah \pbuh said “Does any of you have water?” So he put his hand
+    into the water and said “Make _wuḍū_ in the name of Allah.” And I
+    saw the water coming out from between his fingers until they all
+    made _wuḍū_.
+
+    Thābit said: “I said to Anas \mabpwhim, ‘How many were
+    there?’ He said, ‘About seventy.’”[^23]
+ 
+    As for the proof for that which we have stated---it is his \pbuh
+    saying “Make _wuḍū_ in the name of Allah.” As for those who say that
+    it is only _sunnah muʾakkadah_, then they base that upon the relative
+    _ḥadīth_ being weak. However since the _ḥadīth_ is _ṣaḥīḥ_ as we have
+    explained, then there remains no proof for them and the proof is with
+    us, and Allah Knows Best.
+ 
+So it is therefore obligatory as we have shown, however the one who
+forgets should mention Allah's name when he remembers.

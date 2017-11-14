@@ -18,4 +18,7 @@
 [^18]: Reported by Muslim (1/144) and others.
 [^19]: Reported by al-Ḥākim (1/132) who declared it to be _ṣaḥīḥ_ to the standard of Muslim. And al-Haithumee said in _Al-Zawāʾid_: It is narrated by Abū Yaʿlā and al-Bazzār and its narrators are up to the standard of al-Bukhārī.
 [^20]: Related by al-Bukhārī (See _Fatḥ al-Bārī_, 11/213) and Muslim (#226) and al-Nasāʾī (1/63).
+[^21]: _Fatḥ al-Bārī_ (1/9) and Muslim (6/48).
+[^22]: Reported by Ibn Mājah (#399), al-Tirmidhī (#26), Abū Dāwūd (#101) and others. Shaykh al-Albānī declared it _ṣaḥīḥ_ in _Ṣaḥīḥ al-Jāmiʿ_ (#7444).
+[^23]: Al-Bukhārī (1/236), Muslim (8/411) and al-Nasāʾī (vol. 8).
 
