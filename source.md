@@ -217,3 +217,68 @@ what he intended...”[^21]
  
 So it is therefore obligatory as we have shown, however the one who
 forgets should mention Allah's name when he remembers.
+
+## Washing The Hands
+
+1. Humrān \mabpwhim narrates that ʿUthmān called for water
+  to make _wuḍū_ and washed his hands three times... then said, “I saw
+  the Emissary of Allah \pbuh make _wuḍū_ just as I have
+  made _wuḍū_.”[^24]
+
+2. Abū Hurayrah \mabpwhim said: the Emissary of Allah \pbuh said,
+  “When one of you awakes from sleep then let him not enter his hand
+  into the bowl/vessel until he washes it three times as he does not
+  know where his hand has spent the night.”[^25]
+
+3. And in the _ḥadīth_ of ʿAbd Allāh ibn Zayd \mabpwhim he was
+  asked about the _wuḍū_ of the Prophet \pbuh, so he called for
+  a bowl of water and made _wuḍū_ from it as the Prophet \pbuh made
+  _wuḍū_, and he poured out water from the bowl upon his hand and
+  washed it three times.[^26]
+
+4. Aus ibn Abi Aus reports from his grandFatḥer \mabpwhim
+  who said: I saw the Emissary of Allah \pbuh make
+  _wuḍū_ washing his hands three times. \[Aḥmad (4/9), al-Nasāʾī
+  (1/55) - with _ṣaḥīḥ_ _isnād_\].
+
+<!-- TODO EDIT -->
+
+Al-Madmadah and Al-Istinshaaq
+
+AL-MADMADAH: Washing the mouth and moving the water around within it.
+ 
+AL-ISTINSHAAQ: Taking water into the nose and breathing it into its backmost part.
+ 
+AL-ISTINTHAAR: Expulsion of water from the nose after istinshaaq.
+
+
+# Washing the Mouth and Nose Together with One Handful (of Water)
+
+1. ʿAbd Allāh ibn Zayd al-Anṣārī said that it was said to him: Perform for us the _wuḍū_ of the Emissary of Allah \pbuh, so he called for a pot of water...until he said, “So he washed his mouth and nose with a single handful and did that three times.”
+
+# Washing the Mouth
+
+1. In the _ḥadīth_ of ʿAmr ibn Yaḥyā \mabpwhim he said: And
+  he washed his mouth and nose using three handfuls of water.[^28]
+
+    Imam al-Nawawī says, “...and in this _ḥadīth_ is a clear proof for the correct opinion that the Sunnah in washing the mouth and nose is that it should be with three handfuls of water---washing the mouth and nose [together] with each of them.”
+
+2. In the _ḥadīth_ of ʿĀʾishah \mabpwher in which she describes the _wuḍū_ of the Prophet \pbuh that he said “When you make _wuḍū_ then wash your mouth.”[^29]
+
+## Washing the Nose and Expelling the Water
+
+1. Abū Hurayrah \mabpwhim narrates that the Prophet \pbuh
+  said “When one of you makes _wuḍū_ then let him enter water into his nose, then expel it.”[^30]
+
+2. Exerting in sniffing in the water as long as you are not fasting is
+  reported in the _ḥadīth_ of Laqīt \mabpwhim who said, “O Emissary of Allah \pbuh, inform me of the _wuḍū_.” He said “Complete the _wuḍū_ and rub between the fingers and exert in breathing in the water into the nose unless you are fasting.”[^31]
+
+It is clear from these two _aḥādīth_ that washing the mouth and nose
+are both obligatory (_wājib_). Ibn Qudāmah says in _al-Mughnī_, “
+Washing the nose and washing the mouth are both obligatory in both
+forms of purification---_ghusl_ and _wuḍū_---as washing the face is
+obligatory in both of them in the established view of the _madhhab_; and
+it is the saying of Ibn al-Mubārak, Ibn Abī Laylā and Isḥāq, and was also reported from ʿAtā.”
+
+
+

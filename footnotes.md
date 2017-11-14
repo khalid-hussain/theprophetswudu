@@ -21,4 +21,19 @@
 [^21]: _Fatḥ al-Bārī_ (1/9) and Muslim (6/48).
 [^22]: Reported by Ibn Mājah (#399), al-Tirmidhī (#26), Abū Dāwūd (#101) and others. Shaykh al-Albānī declared it _ṣaḥīḥ_ in _Ṣaḥīḥ al-Jāmiʿ_ (#7444).
 [^23]: Al-Bukhārī (1/236), Muslim (8/411) and al-Nasāʾī (vol. 8).
+[^24]: Al-Bukhārī and Muslim, and as preceded.
+[^25]: Al-Bukhārī (_Fatḥ al-Bārī_, 1/229) and Muslim. The wording is Muslim's as al-Bukhārī doesn't report “three times.”
+[^26]: Al-Bukhārī (_Fatḥ al-Bārī_, l/255) and Muslim (3/121).
+[^27]: Al-Bukhārī and Muslim.
+[^28]: Muslim (3/123).
+[^29]: Al-Bayhaqī says, “Its _isnād_ is _ṣaḥīḥ_.” It contains an addition to the previous _ḥadīth_ of ʿĀʾishah in Abū Dāwūd (#l43).
+[^30]: Al-Bukhārī (al-Fatḥ, 1/229), Muslim (#237), and Abū Dāwūd (#140).
+
+<!-- TODO al-Qātān -->
+
+[^31]: Abū Dāwūd (#l42), al-Tirmidhī (#38), al-Nasāʾī (#ll4), Ibn Mājah (#407), and others. Declared as _ṣaḥīḥ_ by Ibn Ḥibbān and al-Ḥākim, and al-Dhahabī concurred. It was also declared as _ṣaḥīḥ_ by Ibn al-Qātān, al-Nawawī and Ibn Ḥajr. Refer to the footnote in al-Baghawī's _Sharḥ al-Sunnah_ (1/417).
+
+
+
+
 
