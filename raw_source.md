@@ -1,36 +1,3 @@
-
-
-
-
- 
-TAKING WATER INTO THE NOSE WITH THE RIGHT HAND AND EXPELLING IT WITH THE LEFT
-=================================
-
-ʿAbd Khair said: We were sitting looking towards 'Alee - as he made _wuḍū_ - and he entered into his mouth a handful of water with his right hand and washed his mouth and nose, then expelled it from his
- nose with his left hand - he did that three times, then said: Whoever
- would like to see the way of purification of the Emissary of Allah (sallallaahu
- 'alaihi wa sallam) - then this is his purification. \[Reported by ad-
- Daarimee. Shaykh al-Albānī says in his notes on al-Mishkaat: Its
- _isnād_ is _ṣaḥīḥ_\].
-
-WASHING THE FACE
-================
-
- The face (wajh) is determined as being everything between the
- beginnings of the hair down to the cheeks and the chin, and up to the
- start of the ears including that which is between the beard and ear.
- 
- Allah ta'ala says: O Ye who believe! When ye prepare for prayer, wash
- your faces, and your hands (and arms) to the elbows; rub your heads
- (with water); and (wash) your feet to the ankles.
- \[soorat-ul-Maa'idah,5:7\]
- 
- Humrān ibn Abān narrates that ʿUthmān \mabpwhim called
- for water to make _wuḍū_ and so mentioned the way in which the Prophet
- \pbuh made _wuḍū_. Humraan said: Then he
- washed his face three times. \[Al- Bukhaaree (al-Fatḥ, 1/312), Muslim
- (#226)\].
-
 RUNNING WATER THROUGH THE BEARD WITH THE FINGERS
 ================================================
 
@@ -350,8 +317,6 @@ THE REPLY TO THOSE WHO FOLLOW WIPING OF THE FEET WITHOUT WASHING
   any of the Sahaabah differed regarding that - except what is
   reported from 'Alee, Ibn 'Abbas and Anas (radhiAllahu 'anhum) - and
   it is established that they went back on that. (Al-Mirqaat. 1/400\~.
-
-<!-- -- 
 
 36. And Abū Hurayrah \mabpwhim reports that the Emissary of Allah
   \pbuh came to the graveyard and said
@@ -737,8 +702,6 @@ THAT WHICH COMES OUT FROM THE TWO PRIVATE PARTS (FRONT AND BACK):
 
 (1) **SOUND SLEEP \[5\]**
 
-<!-- -- 
-
 59. 'Alee ibn Abi Taalib \mabpwhim said: the Emissary of Allah
   \pbuh said **The eye is the drawstring for
   the anus, so he who sleeps then let him make _wuḍū_.** \[Abū Dāwūd
@@ -768,8 +731,6 @@ THAT WHICH COMES OUT FROM THE TWO PRIVATE PARTS (FRONT AND BACK):
 
 (2) **TOUCHING THE PENIS**
 
-<!-- -- 
-
 70. Busrah (radhiAllahu 'anhaa) said: the Emissary of Allah (sallallaahu 'alaihi
   wa sallam) said **If one of you touches his penis then let him make
   _wuḍū_.** \[al-Tirmidhī (1/18) who said it is hasan _ṣaḥīḥ_. And also
@@ -793,11 +754,7 @@ THAT WHICH COMES OUT FROM THE TWO PRIVATE PARTS (FRONT AND BACK):
   sallam) saying 'a part of him'. \[Al-Mishkaat al Masaabeeh, notes on
   nos.3 19 and 320\].
 
-<!-- -- 
-
 (1) **TOUCHING A WOMAN WITH DESIRE**
-
-<!-- -- 
 
 70. A man's touching a woman without desire does not break the _wuḍū_ .
   ʿĀʾishah (radhiAllahu 'anhaa) says: the Emissary of Allah (sallallaahu

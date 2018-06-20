@@ -32,7 +32,9 @@
 <!-- TODO al-Qātān -->
 
 [^31]: Abū Dāwūd (#l42), al-Tirmidhī (#38), al-Nasāʾī (#ll4), Ibn Mājah (#407), and others. Declared as _ṣaḥīḥ_ by Ibn Ḥibbān and al-Ḥākim, and al-Dhahabī concurred. It was also declared as _ṣaḥīḥ_ by Ibn al-Qātān, al-Nawawī and Ibn Ḥajr. Refer to the footnote in al-Baghawī's _Sharḥ al-Sunnah_ (1/417).
-
+[^32]: Reported by al-Dārimī. Shaykh al-Albānī says in his notes on _al-Mishkāh_: Its
+ _isnād_ is _ṣaḥīḥ_.
+[^33]: Reported by al-Bukhārī (_al-Fatḥ_, 1/312) and Muslim (#226).
 
 
 

@@ -4,6 +4,7 @@ documentclassoptions: ebook
 fontsize: 14pt
 title: The Prophet's Wuḍū
 mainfont: Minion Pro
+publisher: Granada Publications
 ---
 
 # Introduction
@@ -30,6 +31,7 @@ I ask Allah to guide us to that which is proper. Verily He is the One having aut
 
 
 # The Definition of Wuḍū
+
 
 ## Arabic Language
 
@@ -236,8 +238,8 @@ forgets should mention Allah's name when he remembers.
   _wuḍū_, and he poured out water from the bowl upon his hand and
   washed it three times.[^26]
 
-4. Aus ibn Abi Aus reports from his grandFatḥer \mabpwhim
-  who said: I saw the Emissary of Allah \pbuh make
+4. Aws ibn Abī Aws reports from his grandfather \mabpwhim
+  said: I saw the Emissary of Allah \pbuh make
   _wuḍū_ washing his hands three times. \[Aḥmad (4/9), al-Nasāʾī
   (1/55) - with _ṣaḥīḥ_ _isnād_\].
 
@@ -280,5 +282,23 @@ forms of purification---_ghusl_ and _wuḍū_---as washing the face is
 obligatory in both of them in the established view of the _madhhab_; and
 it is the saying of Ibn al-Mubārak, Ibn Abī Laylā and Isḥāq, and was also reported from ʿAtā.”
 
+## Taking Water Into The Nose With The Right Hand And Expelling It With The Left
 
+ʿAbd Khayr said: We were sitting, looking towards ʿAlī as he made _wuḍū_, and he entered into his mouth a handful of water with his right hand and washed his mouth and nose, then expelled it from his nose with his left hand—he did that three times, then said: Whoever would like to see the way of purification of the Emissary of Allah \pbuh, then this is his purification.[^32]
+
+# Washing The Face
+
+The face (_wajh_) is determined as being everything between the
+beginning of the hair down to the cheeks and the chin, and up to the
+start of the ears including that which is between the beard and ear.
+
+Allah \swt says,
+
+> O Ye who believe! When ye prepare for prayer, wash your faces,
+> and your hands (and arms) to the elbows; rub your heads (with
+> water); and (wash) your feet to the ankles. [Sūrah al-Māʾidah, 5:7]
+ 
+Humrān ibn Abān narrates that ʿUthmān \mabpwhim called
+for water to make _wuḍū_ and so mentioned the way in which the Prophet
+\pbuh made _wuḍū_. Humrān said: Then he washed his face three times.[^33]
 
