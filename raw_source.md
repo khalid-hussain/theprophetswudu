@@ -1,35 +1,4 @@
-RUNNING WATER THROUGH THE BEARD WITH THE FINGERS
-================================================
 
-1. ʿUthmān \mabpwhim narrates that the Prophet (sallallaahu
-  'alaihi wa sallam) used to run his (wet fingers) through his beard.
-  \[al-Tirmidhī (#31), Ibn Mājah (#430), Ibn Jaarood (p.43) and
-  al-Haakim (1/14\~) who declared its _isnād_ as _ṣaḥīḥ_ as did Ibn
-  Khuzaymah and Ibn Ḥibbān. See the note in al-Baghagawi's Sharh
-  us-Sunnah, 1/421\].
-
-2. Anas \mabpwhim narrates that the Prophet
-  (sallallaahu'alaihi wa sallam), when he made _wuḍū_ , used to take a
-  handful of water and enter it below his chin and rub it through his
-  beard and said **This is what my Lord - the Great and Exalted - has
-  ordered me to do.** \[Abu Dāwūd (#145), al-Baihaqee (1/54), al-
-  Haakim (1/149). Shaykh al-Albaani declares it to be _ṣaḥīḥ_
-  (_ṣaḥīḥ_ ul-Jaami', #4572)\].
-
- Some of the scholars have declared that entering water through the
- beard is obligatory and say: If he deliberately leaves it - then he
- must repeat the ( _wuḍū_ and) prayer. And this is the saying of Imam
- Ishaaq and Abū Thaur.
- 
- Most of the scholars however are of the opinion that the order is an
- order of desirability (istihbaab) and it is not obligatory - and that
- it is clearer that that which is obligatory is moving water through
- that part of the beard..so that it reaches the skin underneath.
- \[Al-Khattaabee, 1/56\].
- 
- Imam Aḥmad and Laith and most of the scholars hold that moving water
- through the beard is obligatory when taking ghusl from Janaabah - and
- not obligatory in _wuḍū_ . \['Aun al Ma'bood, 1/247\].
 
 WASHING THE ARMS INCLUDING THE ELBOWS
 =====================================

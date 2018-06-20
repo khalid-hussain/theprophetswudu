@@ -35,7 +35,10 @@
 [^32]: Reported by al-Dārimī. Shaykh al-Albānī says in his notes on _al-Mishkāh_: Its
  _isnād_ is _ṣaḥīḥ_.
 [^33]: Reported by al-Bukhārī (_al-Fatḥ_, 1/312) and Muslim (#226).
-
-
-
-
+[^34]: Al-Tirmidhī (#31), Ibn Mājah (#430), Ibn Jārūd (p.\ 43) and
+  al-Ḥākim (1/14) who declared its _isnād _ṣaḥīḥ_ as did Ibn
+  Khuzaymah and Ibn Ḥibbān. See the note in al-Baghawī's _Sharḥ
+    al-Sunnah_ (1/421).
+[^35]: Abū Dāwūd (#145), al-Bayhaqī (1/54), al-Ḥākim (1/149). Shaykh al-Albānī declared it _ṣaḥīḥ_ (_Ṣaḥīḥ al-Jāmiʿ, #4572).
+[^36]: Al-Khaṭṭābī (1/56).
+[^37]: _ʿAwn al-Maʿbūd_ (1/247).
