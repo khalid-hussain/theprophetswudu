@@ -158,7 +158,7 @@ Allah says,
 
 # The Components of Wuḍū
 
-## Al-Niyyah (Intention)
+## Al-Nīyyah (Intention)
 
 This is the firm resolve of the heart to perform
 _wuḍū_ in obedience to the order of Allah \swt and His Emissary
@@ -176,7 +176,7 @@ As the Emissary of Allah \pbuh himself explained in the _ḥadīth_ narrated by 
 in the _Ṣaḥīḥayn_, “Verily the actions are by intention and there is for everyone only
 what he intended...”[^21]
 
-## Al-Tasmiyyah (Mentioning Allah's Name)
+## Al-Tasmīyyah (Mentioning Allāh's Name)
 
 1. Abū Hurayrah \mabpwhim said that the Emissary of Allah \pbuh
   said “There is no _wuḍū_ for him who does not mention Allah's name
@@ -243,22 +243,20 @@ forgets should mention Allah's name when he remembers.
   _wuḍū_ washing his hands three times. \[Aḥmad (4/9), al-Nasāʾī
   (1/55) - with _ṣaḥīḥ_ _isnād_\].
 
-<!-- TODO EDIT -->
 
-Al-Madmadah and Al-Istinshaaq
+## Al-Maḍmaḍah and al-Istinshāq
 
-AL-MADMADAH: Washing the mouth and moving the water around within it.
- 
-AL-ISTINSHAAQ: Taking water into the nose and breathing it into its backmost part.
- 
-AL-ISTINTHAAR: Expulsion of water from the nose after istinshaaq.
+_Al-Maḍmaḍah_: Washing the mouth and moving the water around within it.
 
+_Al-Istinshāq_: Taking water into the nose and breathing it into its backmost part.
 
-# Washing the Mouth and Nose Together with One Handful (of Water)
+_Al-Istinthār_: Expulsion of water from the nose after _istinshāq_.
+
+## Washing the Mouth and Nose Together with One Handful (of Water)
 
 1. ʿAbd Allāh ibn Zayd al-Anṣārī said that it was said to him: Perform for us the _wuḍū_ of the Emissary of Allah \pbuh, so he called for a pot of water...until he said, “So he washed his mouth and nose with a single handful and did that three times.”
 
-# Washing the Mouth
+## Washing the Mouth
 
 1. In the _ḥadīth_ of ʿAmr ibn Yaḥyā \mabpwhim he said: And
   he washed his mouth and nose using three handfuls of water.[^28]
@@ -286,7 +284,7 @@ it is the saying of Ibn al-Mubārak, Ibn Abī Laylā and Isḥāq, and was also 
 
 ʿAbd Khayr said: We were sitting, looking towards ʿAlī as he made _wuḍū_, and he entered into his mouth a handful of water with his right hand and washed his mouth and nose, then expelled it from his nose with his left hand—he did that three times, then said: Whoever would like to see the way of purification of the Emissary of Allah \pbuh, then this is his purification.[^32]
 
-# Washing The Face
+## Washing The Face
 
 The face (_wajh_) is determined as being everything between the
 beginning of the hair down to the cheeks and the chin, and up to the
@@ -294,24 +292,327 @@ start of the ears including that which is between the beard and ear.
 
 Allah \swt says,
 
-> O Ye who believe! When ye prepare for prayer, wash your faces,
-> and your hands (and arms) to the elbows; rub your heads (with
-> water); and (wash) your feet to the ankles. [Sūrah al-Māʾidah, 5:7]
+> O Ye who believe! When ye prepare for prayer, wash your faces, and your hands (and arms) to the elbows; rub your heads (with water); and (wash) your feet to the ankles. [Sūrah al-Māʾidah, 5:7]
  
 Humrān ibn Abān narrates that ʿUthmān \mabpwhim called
 for water to make _wuḍū_ and so mentioned the way in which the Prophet
 \pbuh made _wuḍū_. Humrān said: Then he washed his face three times.[^33]
 
-# Running Water Through The Beard With The Fingers
+## Running Water Through The Beard With The Fingers
 
 1. ʿUthmān \mabpwhim narrates that the Prophet \pbuh used to run his (wet fingers) through his beard.[^34]
 
 2. Anas \mabpwhim narrates that when the Prophet \pbuh made _wuḍū_, he used to take a handful of water and enter it below his chin and rub it through his beard and said, “This is what my Lord—the Great and Exalted—has ordered me to do.”[^35]
 
- Some of the scholars have declared that entering water through the beard is obligatory and say: If he deliberately leaves it - then he  must repeat the (_wuḍū_ and) prayer. And this is the saying of Imam
- Isḥāq and Abū Thawr.
+    Some of the scholars have declared that entering water through the beard is obligatory and say: If he deliberately leaves it—then he  must repeat the (_wuḍū_ and) prayer. And this is the saying of Imam Isḥāq and Abū Thawr.
  
- Most of the scholars however are of the opinion that the order is an order of desirability (istihbaab) and it is not obligatory - and that it is clearer that that which is obligatory is moving water through that part of the beard..زso that it reaches the skin underneath.[^36]
+    Most of the scholars however are of the opinion that the order is an order of desirability (_istihbāb_) and it is not obligatory—and that it is clearer that that which is obligatory is moving water through that part of the beard...so that it reaches the skin underneath.[^36]
  
- Imams Aḥmad and Layth and most of the scholars hold that moving water through the beard is obligatory when taking ghusl from _Janābah_ - and not obligatory in _wuḍū_.[^37]
+    Imams Aḥmad and Layth and most of the scholars hold that moving water through the beard is obligatory when taking _ghusl_ from _Janābah_—and not obligatory in _wuḍū_.[^37]
 
+## Washing The Arms Including The Elbows
+
+[Note]{.smallcaps}: The arms here which we are ordered to wash begin with the fingertips and hands—which are to be included in this washing—they being part of the arm (_yad_) which we are ordered to wash in the _āyah_.
+
+Allāh \swt says:
+
+> O Ye who believe! When ye prepare for prayer, wash your faces, and your hands (and arms) to the elbows; rub your heads (with water); and (wash) your feet to the ankles. [Sūrah al-Māʾidah, 5:7]
+
+Humrān ibn Abān reports that ʿUthmān \mabpwhim called for water for _wuḍū_ and mentioned the Prophet's \pbuh way of making _wuḍū_—and Humrān said: Then he washed his right arm including the elbow three times, then the left in the same way (al-Bukhārī and Muslim as has preceded).
+
+Regarding inclusion of the elbows in the washing of the arms—scholars have differed: Some of them saying that they must be included in this washing, and others saying that this is not so. And this difference of opinion is due to their disagreement over the meaning of the word _ilā_ (to) in the _āyah_ - does it mean ‘up to/until’ or ‘up to and including’?
+
+He who says that it means ‘up to’ does not include the elbows in the washing—just as Allah \swt says:
+
+> ...thumma 'atimmus-siyaama ilaa -llail: Then complete your fast till the night appears; [Sūrah al-Baqarah, 2:187]
+
+And this is the opinion of some of the companions of Imam Mālik.
+
+Most scholars, however, hold the view that the meaning is ‘up to and including/along with’—and thus include the elbows in the washing and use as their evidence Allah's \swt saying:
+
+>...wa yayazidkum quwwatan ilaa quwwatikum...(and add strength to your strength); [Sūrah Hūd, 11:52]
+
+1. The proof in this matter is the _ḥadīth_ of Nuʿaym bin Mijmar who
+  said, “I saw Abū Hurayrah make _wuḍū_—he washed his face and
+  completed the _wuḍū_, then washed his right hand until he reached
+  the upper arm, then his left hand till he reached the upper arm”—
+  then in the end of the _ḥadīth_ he said: “This is how I saw
+  the Emissary of Allah \pbuh make _wuḍū_.” (Muslim, 1/246)
+
+ So, dear reader, it is clear from this _ḥadīth_ that the Prophet
+ \pbuh used to wash the elbows further, he
+ used to increase upon that and wash part of the upper arm.
+
+2. Jābir \mabpwhim said that when the Prophet \pbuh
+  made _wuḍū_, he would pass the water over his
+  elbows. (Reported by al-Dāraquṭnī (1/15), al-Bayhaqī (1/56) and
+  others; Ibn Ḥajr declared it _ḥasan_; Shaykh al-Albānī declared
+  it _ṣaḥīḥ_ (_Ṣaḥīḥ ul-Jāmiʿ_, 4547).
+
+## Wiping the Head and Ears and Imāmah
+
+1. Wiping over all of the head as Allah \pbuh says:
+
+  > ...wamsahoo bi ru'oosikum...: ...rub your heads (with water) [Soorat-ul-Maa'idah 5:7]
+
+  Ibn Qudāmah says: Some of the people who claim that that which
+  is ordered to be wiped is part of the head only—claim that the _Bā_
+  (in the _āyah_) means “part of” as if He had said: “Wipe part of your
+  heads.” However, we say that in His \swt saying wamsahoo bi ru'oosikum
+  the _Bā_ is as if He \swt said regarding Tayammum wamsahoo bi wujoohikum
+  (Allah \swt orders us to wipe the faces).
+
+  Therefore their saying that the _Bā_ means “part of” is incorrect and
+  unknown to the scholars of the language. Ibn Burhān says, “He who
+  claims that the _bā_ means ‘part of’ has declared before the scholars
+  of the language that of which they have no knowledge.” (_al-Mughnī_ 1/112)
+
+  Imam al-Shawkānī says: It is not established that it means “part of”
+  and Sībawayh (one of the foremost scholars of the Arabic language)
+  has denied that in fifteen places in his book. (_Nayl al-Awtār_, 1/193).
+
+  In the _ḥadīth_ of ʿAbd Allāh ibn Zayd \mabpwhim is further proof of
+  the incorrectness of the saying that it means “a part of”—in that the
+  Prophet \pbuh wiped his head with his two hands, moving them forwards
+  and backwards—beginning with the front of the head and (wiping) with
+  them up to his nape then he \pbuh returned them to the place from which
+  he began (al-Fatḥ 1/251, Muslim #235, al-Tirmidhī #28 and others).
+
+2. Wiping the ears: The ruling for the ears is the same as that for the
+head.
+
+  It is authentically reported that the Emissary of Allah \pbuh
+  said, “The two ears are a part of the head.” (Reported by al-Tirmidhī
+  #37; Abū Dāwūd, #134 and Ibn Mājah, #444. It was declared _ṣaḥīḥ_ by
+  Shaykh al-Albānī [_al-Ṣaḥīḥah-_, 1/36]. Imam Aḥmad was of the view that
+  wiping the ears has the same ruling as that for wiping the head.)
+
+As for those who hold the view that it is a _sunnah_, they do not have
+any evidence except their regarding this _ḥadīth_ as being _ḍaʿīf_.
+However, it is authentic due to a chain of narration which they did not
+come across and so the proof is with our saying—and Allah Knows best.
+
+The scholars who hold that they are part of the head are Ibn al-Musayyib,
+ʿAṭā, al-Ḥasan, Ibn Sīrīn, Saʿīd ibn Jubayr and al-Nakhaʾī and it is the
+saying of al-Thawrī and Ahl al-Raʾy and Imams Mālik and Aḥmad ibn Ḥanbal.
+
+## Taking Fresh Water for the Head and Ears
+
+36. Shaykh al-Albānī says in _al-Ḍaʿīfah_, #995: There is not
+  to be found in the Sunnah anything which obligates taking fresh
+  water for the ears—therefore he should wipe them along with the
+  water for the head—just as it is also permissible to wipe the head
+  with the water remaining from that of the arms after washing them
+  according to the _ḥadīth_ of al-Rabīʿ bint Muʿawwiḍ that the
+  Prophet \pbuh “wiped his head with water remaining in his hand.”
+  (Reported by Abū Dāwūd and others with _ḥasan isnād_)
+
+<!-- TODO -->
+
+## The Way of Wiping
+
+36. From ʿAbd Allāh ibn ʿAmr—about the way of performing _wuḍū_—he
+  said: Then he \pbuh wiped his head and entered his two forefingers
+  into his ears and wiped the backs of his ears with his thumbs.
+  (Reported by Abū Dāwūd #135, al-Nasāʾī #140, Ibn Mājah #422
+  and authenticated by Ibn Khuzaymah)
+
+## Wiping over the Imāmah only
+
+36. ʿAmr bin Umayyah \mabpwhim said: I saw the Emissary of Allah
+  \pbuh wipe over his turban and leather socks.
+  (Reported by al-Bukhārī [al Fatḥ, 1/266] and others)
+
+37. Bilāl \mabpwhim reports that the Prophet \pbuh wiped over
+  the leather socks and the head cover.
+  (Reported by Muslim 1/159)
+
+## Wiping over the turban and forelock
+
+36. Al-Mughīrah bin Shuʿbah \mabpwhim reports that the
+  Prophet \pbuh made _wuḍū_ and wiped over his forelock
+  and over the turban and leather socks.
+  (Reported by Muslim 1/159)
+
+<!-- TODO Stopped here -->
+
+Ibn Qudāmah says in _al-Mughnī_ (1/310); And if part of the head is
+uncovered and it is normally so, then it is preferable to wipe over
+that along with the turban - that is recorded from Aḥmad: as the
+Prophet \pbuh wiped over his turban and
+forelock - as occurs in the _ḥadīth_ of al-Mugheerah ibn Shu'bah.
+
+As for caps/'prayer hats', it is not permissible to wipe over them as
+Aḥmad says for various reasons, from them: (1) They do not cover all
+of the head normally, nor are they tied around it. (2) There is no
+difficulty in their removal.
+
+As for the woman's head cover - it is permissible to wipe over it as
+Umm Salamah used to wipe over her head cover - as reported by Ibn
+al-Mundhir. (See_al-Mughnī_, 1/312).
+
+WASHING THE FEET AND ANKLES
+===========================
+
+ Allah ta'ala says: ...wa arjulakum ilaal ka'bayn...: ...and (wash)
+ your feet to the ankles \[Soorat-ul-Maa'idah 5:7\] \[thus ordering the
+ washing of the feet and ankles\].
+
+36. Ibn 'Umar (radhiAllahu 'anhumaa) said: the Emissary of Allah (sallallaahu
+  'alaihi wa sallam) fell behind us and then came upon us during a
+  journey, then we found him and it was time for 'Asr - so we began to
+  make _wuḍū_ and wipe over our feet, so he (sallallaahu 'alaihi wa
+  sallam) called out at the top of his voice Woe to the ankles from
+  the Fire. (two or three times) \[al-Bukhārī (al Fatḥ, 1/232) and
+  Muslim, 3/128\].
+
+ al-Nawawī says in his explanation of Sahih Muslim after mentioning the
+ _ḥadīth_: Muslim's intention (rahimahullah) in quoting these _ḥadīth_
+ was to prove with it the obligation of washing the feet - and that
+ wiping them is not sufficient.
+
+36. In the _ḥadīth_ of al-Bukhārī and Muslim from Humrān ibn Abān
+  that ʿUthmān \mabpwhim called for water for _wuḍū_ and
+  then mentioned the _wuḍū_ of the Prophet (sallallaahu 'alaihi wa
+  sallam) - then Humraan said: Then he washed his right foot to the
+  ankle three times and then his left foot to the ankle three times.
+
+37. As Abū Hurayrah \mabpwhim did in Muslim's narration:
+  "Then he washed his right foot till he reached the shin, then he
+  washed the left foot till he reached the
+
+ shin" and in the end of the _ḥadīth_ said: This is what I saw
+ the Emissary of Allah (sallallaahu 'alaihi wasallam) do. \[Muslim, 1/246\].
+ 
+ From this _ḥadīth_ - O Brother Muslim - it becomes clear that the
+ ankles enter into this washing as is clear from his saying 'till he
+ reached the shin'.
+
+36. Al-Mustaurad \mabpwhim said: When the Prophet
+  \pbuh made _wuḍū_ he would enter the water
+  between his toes with his little finger. \[Reported by Abū Dāwūd
+  (#148), at-Tinnidhee (#40) and Ibn Mājah (#446). Declared as
+  '_ṣaḥīḥ_' by al-Albānī\].
+
+ As-San'aanee says in 'Subul-us-Salaam' after quoting this _ḥadīth_: It
+ is a proof for the obligation of wiping between the toes - and this
+ also occurs in the _ḥadīth_ of Ibn 'Abbaas which we have indicated -
+ which is reported by al-Tirmidhī, Aḥmad, Ibn Mājah and al-Haakim -
+ and authenticated by al-Bukhārī. And it is done by using the little
+ finger. (See 'Subul-us-Salaam', 1/48).
+
+36. And Laqeet ibn Sabarah said: the Emissary of Allah (sallallaahu 'alaihi wa
+  salam) said **Complete the _wuḍū_ and wipe between the Asaabi'**
+  (fingers and/or toes). \[Abū Dāwūd (#142), al-Tirmidhī (#37),
+  al-Nasāʾī (#114), Ibn Mājah (#407), al-Hakim (1/148).
+  al-Albānī says: _ṣaḥīḥ_.\]. As-San'aanee says: It clearly means
+  both the fingers and toes and is shown clearly in the _ḥadīth_ of Ibn
+  'Abbaas. \[Subul-us-Salaam, 1/47\].
+
+THE REPLY TO THOSE WHO FOLLOW WIPING OF THE FEET WITHOUT WASHING
+================================================================
+
+(1) Wiping the feet when not wearing anything on the foot is not
+  established from the Prophet \pbuh**.** As
+  for their using as a proof the reading of the Aayah: wamsahoo bi
+  ru'oosikum wa arjulakum ilaal ka'bayn: rub your heads and your feet
+  to the ankles...\[soorat-ul-Maaidah 5:7\] reading (arjulikum) - and
+  saying that the feet are thus connected to (the command to wipe) the
+  heads - and this is not correct, rather they are connected to (the
+  order to wash) the hands. As for the reading of the word (arjulikum)
+  with Kasra of the laam - as-San'aanee says That is for wiping over
+  the leather socks - as is shown by the Sunnah - and this is the best
+  interpretation for this particular recital. (As-Subul, 1/58).
+
+(2) The Qur'aan is not to be explained according to the human
+  intellect - especially in the matters of worship such as Salaat and
+  _wuḍū_ , etc. - but by the Sunnah which explains this Pillar. And
+  there are many such examples in the Qur'an which the Prophet
+  \pbuh explained by his sayings - and from
+  this is the washing of the feet - and its proof from the Sunnah has
+  preceded.
+
+(3) If they wish to use the intellect then we say to them: The bottom of
+  the foot has more right to be wiped than the surface (their saying
+  being the wiping of the surface), and if they say: Then what about
+  the socks? we say: That is established from the Prophet (sallallaahu
+  'alaihi wa sallam) just as washing the foot is also established in
+  the Sunnah.
+
+(4) Leaving out one of two verbs and sufficing with one of them, as the
+  Arabs, when two verbs come together having similar meaning and are
+  followed by things related
+
+ to them, makes it permissible to mention only one of the two verbs and
+ attaching those things relating to the second to those relating to the
+ first which is mentioned - according to what the wording demands,
+ until it is as if the two are partners with regard to the verb, as the
+ poet said: I fed it with hay and cold water. And what is meant is: I
+ fed it with hay and gave it cold water to drink.
+
+(1) The saying of az-Zajjaj (a great scholar of the language): It is
+  permissible that the wording (arjulikum) has the meaning of 'wash
+  the feet' as the wording (ilal Ka'bain) conveys that meaning - as
+  the mentioning of a limit suggests washing just as Allah ta'ala
+  says ilaal maraafiq \[that is the limit of the elbows is for
+  washing\] however, if wiping were intended then there would be no
+  need for mention of a limit just as Allah ta'ala says wamsahoo bi
+  ru'oosikum not mentioning any limit (for wiping the head) and
+  further the term wiping can be used to mean washing. (Al- Mirqaat,
+  1/400).
+
+(2) And further, the great majority of scholars have agreed that it is
+  obligatory to wash the feet and that is reported - and reaches the
+  level of mutawaatir from the Prophet \pbuh
+  as al-Haafiz Ibn Ḥajr says; and further it is not established that
+  any of the Sahaabah differed regarding that - except what is
+  reported from 'Alee, Ibn 'Abbas and Anas (radhiAllahu 'anhum) - and
+  it is established that they went back on that. (Al-Mirqaat. 1/400\~.
+
+36. And Abū Hurayrah \mabpwhim reports that the Emissary of Allah
+  \pbuh came to the graveyard and said
+  .**..they will come on the Day of Judgement with their blazes
+  shining from the _wuḍū_** (It has preceded, #7). Meaning the
+  the Emissary of Allah \pbuh will know from the
+  traces of the washing, as for those who do not wash then he will not
+  know them on the Day of Judgement.
+
+ Ibn Ḥajr says: And it is established that this shining of the faces,
+ hands and feet are particular to the Muslim Ummah.
+ 
+ **OTHER ASPECTS OF _wuḍū_ THE SIWAAK**
+ 
+ The SIWAAK is that which the mouth is brushed with. And it is also
+ called the MISWAAK, the plural being: SOOK. And the siwaak comes from
+ the Araak tree and it is a well-known tree. Abū Hanifah said: It is
+ the best of the trees whose twigs are used for brushing the teeth...
+ smelling of milk. Abū Ziyaad said: From it is taken there tooth-sticks
+ - from its twigs and roots - and the best part for that is its roots,
+ and it is broadly spreading..And Ibn Shameel: The Araak is a tall
+ fine-shoot green tree with many leaves and branches, having weak wood
+ and growing in hollows - miswaaks are taken from it, being one of the
+ citrus trees. Its singular is Araak and its plural Araa-ik.
+ (Lisaan-ul-'Arab, 268).
+ 
+ It is mustahabb (desirable) to use the siwaak at many different times
+ as is established from the Prophet \pbuh
+ that he used to use the siwaak at every Prayer, and before reading the
+ Qur'an, and before sleeping and
+ 
+ when waking, and when the breath changes - whether fasting or not - or
+ whether at the start of the day or in the afternoon, and it is a form
+ of worship which is easy therefore observe it, O my Muslim Brother.
+
+36. And also when making _wuḍū_ , as Abū Hurayrah \mabpwhim
+  narrates that the Emissary of Allah \pbuh said I**f
+  I did not fear to cause hardship to my Ummah I would have ordered
+  them to use the siwaak with every _wuḍū_.** \[Reported by
+  at-Tirrnidhee (#22) who said: Hasan _ṣaḥīḥ_, and Maalik (#123),
+  Aḥmad (4/116), Abū Dāwūd (#37) and others. al-Albānī declared
+  it to be _ṣaḥīḥ_ (Takhree; ul Mishkaat, #390)\].
+
+37. And ʿĀʾishah (radhiAllahu' anhaa) narrates that the Emissary of Allah
+  \pbuh said **The siwaak is a means of
+  cleansing the mouth and pleasing the Lord.** \[al-Bukhārī reports
+  it in mu'allaq form - connected by Aḥmad, an- Nasaa'ee, Ibn
+  Khuzaymah and Ibn Ḥibbān\].
