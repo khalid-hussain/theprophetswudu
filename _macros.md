@@ -1,6 +1,13 @@
+
+
+!define(PDForEPUB)(
+  !pdf(!1)
+  !html(!2)
+)
+
 !define(swt)(
   !pdf(\swt)
-  !html(())
+  !html((Exalted be He))
 )
 
 !define(pbuh)(
@@ -38,15 +45,15 @@
 !define(s)(
   !ifeq(!1)(him)(
     !pdf(\salamhim)
-    !html()
+    !html((Peace be upon him))
   )
   !ifeq(!1)(them)(
     !pdf(\salamthem)
-    !html()
+    !html((Peace be upon them))
   )
 )
 
-!define(r)(
+!define(m)(
   !ifeq(!1)(him)(
     !pdf(\mercyhim)
     !html((May Allāh have mercy on him))
