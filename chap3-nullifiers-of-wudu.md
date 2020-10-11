@@ -4,13 +4,13 @@
 
 ## Anything that exits the two private parts
 
-Abū Hurayrah !p[him] said, “The Emissary of Allāh !pbuh said, ‘Allāh does not
+Abū Hurayrah !p[him] said, “The Emissary of Allāh BPBUH said, ‘Allāh does not
 accept the prayer of any one of you having committed _ḥadath_ until he makes
 _wuḍū_.’” [Al-Bukhārī (_al-Fatḥ_, 1/206) and Muslim (#245)].
 
 68. Al-Nawawī says in _al-Majmūʿ_ (2/3), “...as for that which comes out of
 the two private parts---then it breaks _wuḍū_ according to Allāh's !swt
-saying, (Aw jaa'a ahadukum min al ghaa'it...) (...or one of you comes from offices of nature...) [Soorat-ul-Maa'idah 5:6] along with his !pbuh saying **There is no _wuḍū_ except from a sound or a smell.” [_ṣaḥīḥ_ and has preceded (_Ṣaḥīḥ al-Jāmiʿ_ (7443)].
+saying, (Aw jaa'a ahadukum min al ghaa'it...) (...or one of you comes from offices of nature...) [Soorat-ul-Maa'idah 5:6] along with his BPBUH saying **There is no _wuḍū_ except from a sound or a smell.” [_ṣaḥīḥ_ and has preceded (_Ṣaḥīḥ al-Jāmiʿ_ (7443)].
 
     He concludes, “So that which comes out of the front or back part of a man
     or woman breaks the _wuḍū_---whether excretion, urine, or wind---or a worm
@@ -19,7 +19,7 @@ saying, (Aw jaa'a ahadukum min al ghaa'it...) (...or one of you comes from offic
 
 ## Sound sleep
 
-69. ʿAlī bin ʿAbī Ṭālib !p[him] said, “The Emissary of Allāh !pbuh said, ‘The
+69. ʿAlī bin ʿAbī Ṭālib !p[him] said, “The Emissary of Allāh BPBUH said, ‘The
 eye is the drawstring for the anus, so he who sleeps then let him make
 _wuḍū_.’” [Abū Dāwūd (#203), Ibn Mājah (#477), and Aḥmad. Declared as _ṣaḥīḥ_
 by Shaykh al-Albānī].
@@ -38,21 +38,21 @@ broken or not. This is the saying of the great majority of scholars. (_Sharḥ
 
 ## Touching the genitals
 
-70. Abū Hurayrah !p[him] said, “The Emissary of Allāh !pbuh said, ‘If one of
+70. Abū Hurayrah !p[him] said, “The Emissary of Allāh BPBUH said, ‘If one of
 you touches his penis and there is no veil between him and it nor any cover,
 then _wuḍū_ has become obligatory for him.’” [Al-Ḥākim (1/138) and others.
 Shaykh al-Albānī said that it is _ḥadīth ṣaḥīḥ_.]
 
 <!-- TODO Fix the footnotes here -->
 
-71. Busrah !p[her] said, “The Emissary of Allāh !pbuh said, ‘If one of you
+71. Busrah !p[her] said, “The Emissary of Allāh BPBUH said, ‘If one of you
 touches his penis then let him make _wuḍū_.’” [al-Tirmidhī (1/18) who said it
 is _ḥasan ṣaḥīḥ_. It was declared as _ṣaḥīḥ_ by Aḥmad, al-Bukhārī, and Ibn
 Maʿīn (_Lumʿāt al-Tanqīḥ Sharḥ Mishkāh al-Maṣābīḥ_, #319). Others also narrate
 it as authentic.]
 
-72. Ṭalq ibn ʿAlī !p[him] said, “The Emissary of Allāh !pbuh was asked about a
-man's touching his penis. ‘Should he make _wuḍū_?’ He !pbuh replied, ‘And
+72. Ṭalq ibn ʿAlī !p[him] said, “The Emissary of Allāh BPBUH was asked about a
+man's touching his penis. ‘Should he make _wuḍū_?’ He BPBUH replied, ‘And
 isn't it but a part of him?’” [al-Tirmidhī (#85) and he said: And this is the
 best of what is reported in this regard]. Shaykh al-Albānī said, “Its _isnād_
 is _ṣaḥīḥ_, and this (the view that it doesn't break the _wuḍū_) is
@@ -61,23 +61,23 @@ established as being that of a group of the Ṣaḥābah, from them: Ibn Masʿū
 this and the one before it. Shaykh al-Islām Ibn Taymīyyah harmonized the two
 carrying the first to mean if he touched it with desire and this upon the
 touching without desire---and there is in this _ḥadīth_ that which gives that
-impression and it is his !pbuh saying _a part of him_.” [_al-Mishkāh
+impression and it is his BPBUH saying _a part of him_.” [_al-Mishkāh
 al-Maṣābīḥ_, notes on Nos. 319--320.]
 
 ## Eating camel meat
 
 73. Jābir bin Samurah !p[him] narrates that a man asked the Emissary of Allāh
-!pbuh, “Should I make _wuḍū_ because of the meat of sheep?” He !pbuh said, “If
+BPBUH, “Should I make _wuḍū_ because of the meat of sheep?” He BPBUH said, “If
 you wish make _wuḍū_ and if you wish then do not make _wuḍū_.” He said,
-“Should I make _wuḍū_ from the meat of the camel?” He !pbuh said, “Yes, make
+“Should I make _wuḍū_ from the meat of the camel?” He BPBUH said, “Yes, make
 _wuḍū_ from the meat of the camel.” He asked, “May I pray in sheep-pens?” He
-!pbuh said, “Yes.” He asked, “May I pray in the stalls of camels?” He !pbuh
+BPBUH said, “Yes.” He asked, “May I pray in the stalls of camels?” He BPBUH
 said, “No.” [Reported by Muslim (1/189)].
 
 ## Regarding touching a woman with desire {.unnumbered}
 
 74. A man's touching a woman without desire does not break the _wuḍū_.
-ʿĀʾishah !p[her] says, “The Emissary of Allāh !pbuh prayed and I was lying in
+ʿĀʾishah !p[her] says, “The Emissary of Allāh BPBUH prayed and I was lying in
 front of him as in front of a _janāzah_, so when he wished to prostrate I
 pulled up my leg. [al-Bukhārī and Muslim].
 
@@ -103,7 +103,7 @@ desire.”
 
 The author of _Awn al-Maʿbūd_ (1/69) says regarding her !p[her] saying, _he
 kissed me and did not make wuḍū_, “It contains a proof that touching a woman
-does not break the _wuḍū_ as kissing is part of touching and the Prophet !pbuh
+does not break the _wuḍū_ as kissing is part of touching and the Prophet BPBUH
 did not make _wuḍū_ (before praying). And this (that touching a woman even
 with desire doesn't break the _wuḍū_) is the saying of ʿAlī, Ibn ʿAbbās, ʿAṭāʾ
 bin Ṭāwūs, Abū Ḥanīfah, and Sufyān al-Thawrī. And this _ḥadīth_ is (by itself)

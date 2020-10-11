@@ -4,7 +4,7 @@
 ## Al-Nīyyah (Intention)
 
 This is the firm resolve of the heart to perform _wuḍū_ in obedience to the
-order of Allāh !swt and His Emissary !pbuh. Ibn Taymīyyah !r[him] said in
+order of Allāh !swt and His Emissary BPBUH. Ibn Taymīyyah !r[him] said in
 _Majmūʿah al-Rasāʾil al-Kubrā_ (1/243): “The place of the _niyyah_ is the
 heart and not the tongue in all forms of _ʿibādah_---and that is agreed upon
 by all the Muslim scholars---Purification, _Ṣalāh_, _Zakāt_, _Ṣawm_, _Ḥajj_,
@@ -15,13 +15,13 @@ the intention was not in his heart, that will not count---by total agreement
 of all the scholars of Islam---so the _niyyah_ is the firm intention and
 resolve itself.”
 
-20. As the Emissary of Allāh !pbuh himself explained in the _ḥadīth_ narrated by
+20. As the Emissary of Allāh BPBUH himself explained in the _ḥadīth_ narrated by
 ʿUmar !p[him] in the _Ṣaḥīḥayn_, “Verily the actions are by intention and
 there is for everyone only what he intended...”[^21]
 
 ## Al-Tasmīyyah (Mentioning Allāh's Name)
 
-21. Abū Hurayrah !p[him] said that the Emissary of Allāh !pbuh said “There is
+21. Abū Hurayrah !p[him] said that the Emissary of Allāh BPBUH said “There is
 no _wuḍū_ for him who does not mention Allāh's name upon it.”[^22]
 
     Imam Aḥmad in one of his two sayings is of the opinion that it is
@@ -42,15 +42,15 @@ no _wuḍū_ for him who does not mention Allāh's name upon it.”[^22]
     _ḥadīth_ is authentic, so therefore his opinion is that it is obligatory.
 
 22. Al-Bukhārī and Muslim report from Anas !p[him] that some of the
-Companions of the Prophet !pbuh sought water for _wuḍū_, so the Emissary of
-Allāh !pbuh said “Does any of you have water?” So he put his hand into the
+Companions of the Prophet BPBUH sought water for _wuḍū_, so the Emissary of
+Allāh BPBUH said “Does any of you have water?” So he put his hand into the
 water and said “Make _wuḍū_ in the name of Allāh.” And I saw the water coming
 out from between his fingers until they all made _wuḍū_.
 
     Thābit said: “I said to Anas !p[him], ‘How many were
     there?’ He said, ‘About seventy.’”[^23]
 
-    As for the proof for that which we have stated---it is his !pbuh
+    As for the proof for that which we have stated---it is his BPBUH
     saying “Make _wuḍū_ in the name of Allāh.” As for those who say that
     it is only _sunnah muʾakkadah_, then they base that upon the relative
     _ḥadīth_ being weak. However since the _ḥadīth_ is _ṣaḥīḥ_ as we have
@@ -63,21 +63,21 @@ forgets should mention Allāh's name when he remembers.
 ## Washing The Hands
 
 23. Humrān !p[him] narrates that ʿUthmān called for water to make _wuḍū_ and
-washed his hands three times... then said, “I saw the Emissary of Allāh !pbuh
+washed his hands three times... then said, “I saw the Emissary of Allāh BPBUH
 make _wuḍū_ just as I have made _wuḍū_.”[^24]
 
-24. Abū Hurayrah !p[him] said: the Emissary of Allāh !pbuh said, “When one of
+24. Abū Hurayrah !p[him] said: the Emissary of Allāh BPBUH said, “When one of
 you awakes from sleep then let him not enter his hand into the bowl/vessel
 until he washes it three times as he does not know where his hand has spent
 the night.”[^25]
 
 25. And in the _ḥadīth_ of ʿAbd Allāh ibn Zayd !p[him] he was asked about the
-_wuḍū_ of the Prophet !pbuh, so he called for a bowl of water and made _wuḍū_
-from it as the Prophet !pbuh made _wuḍū_, and he poured out water from the
+_wuḍū_ of the Prophet BPBUH, so he called for a bowl of water and made _wuḍū_
+from it as the Prophet BPBUH made _wuḍū_, and he poured out water from the
 bowl upon his hand and washed it three times.[^26]
 
 26. Aws ibn Abī Aws reports from his grandfather !p[him] said: I saw the
-Emissary of Allāh !pbuh make _wuḍū_ washing his hands three times. [Aḥmad
+Emissary of Allāh BPBUH make _wuḍū_ washing his hands three times. [Aḥmad
 (4/9) and al-Nasāʾī (1/55) with _ṣaḥīḥ_ _isnād_].
 
 ## Al-Maḍmaḍah and al-Istinshāq
@@ -91,7 +91,7 @@ _Al-Istinthār_: Expulsion of water from the nose after _istinshāq_.
 ## Washing the Mouth and Nose Together with One Handful (of Water)
 
 27. ʿAbd Allāh ibn Zayd al-Anṣārī said that it was said to him: Perform for us
-the _wuḍū_ of the Emissary of Allāh !pbuh, so he called for a pot of
+the _wuḍū_ of the Emissary of Allāh BPBUH, so he called for a pot of
 water...until he said, “So he washed his mouth and nose with a single handful
 and did that three times.”
 
@@ -106,17 +106,17 @@ mouth and nose using three handfuls of water.[^28]
     [together] with each of them.”
 
 29. In the _ḥadīth_ of ʿĀʾishah !p[her] in which she describes the _wuḍū_ of
-the Prophet !pbuh that he said “When you make _wuḍū_ then wash your
+the Prophet BPBUH that he said “When you make _wuḍū_ then wash your
 mouth.”[^29]
 
 ## Washing the Nose and Expelling the Water
 
-30. Abū Hurayrah !p[him] narrates that the Prophet !pbuh said “When one of
+30. Abū Hurayrah !p[him] narrates that the Prophet BPBUH said “When one of
 you makes _wuḍū_ then let him enter water into his nose, then expel it.”[^30]
 
 31. Exerting in sniffing in the water as long as you are not fasting is
 reported in the _ḥadīth_ of Laqīt !p[him] who said, “O Emissary of Allāh
-!pbuh, inform me of the _wuḍū_.” He said “Complete the _wuḍū_ and rub between
+BPBUH, inform me of the _wuḍū_.” He said “Complete the _wuḍū_ and rub between
 the fingers and exert in breathing in the water into the nose unless you are
 fasting.”[^31]
 
@@ -133,7 +133,7 @@ Abī Laylā and Isḥāq, and was also reported from ʿAtā.”
 he entered into his mouth a handful of water with his right hand and washed
 his mouth and nose, then expelled it from his nose with his left hand—he did
 that three times, then said: Whoever would like to see the way of purification
-of the Emissary of Allāh !pbuh, then this is his purification.[^32]
+of the Emissary of Allāh BPBUH, then this is his purification.[^32]
 
 ## Washing The Face
 
@@ -148,15 +148,15 @@ hands (and arms) to the elbows; rub your heads (with water); and (wash) your
 feet to the ankles. [Sūrah al-Māʾidah, 5:7]
 
 Humrān ibn Abān narrates that ʿUthmān !p[him] called for water to make
-_wuḍū_ and so mentioned the way in which the Prophet !pbuh made _wuḍū_. Humrān
+_wuḍū_ and so mentioned the way in which the Prophet BPBUH made _wuḍū_. Humrān
 said: Then he washed his face three times.[^33]
 
 ## Running Water Through The Beard With The Fingers
 
-32. ʿUthmān !p[him] narrates that the Prophet !pbuh used to run his (wet
+32. ʿUthmān !p[him] narrates that the Prophet BPBUH used to run his (wet
 fingers) through his beard.[^34]
 
-33. Anas !p[him] narrates that when the Prophet !pbuh made _wuḍū_, he used to
+33. Anas !p[him] narrates that when the Prophet BPBUH made _wuḍū_, he used to
 take a handful of water and enter it below his chin and rub it through his
 beard and said, “This is what my Lord—the Great and Exalted—has ordered me to
 do.”[^35]
@@ -188,7 +188,7 @@ hands (and arms) to the elbows; rub your heads (with water); and (wash) your
 feet to the ankles. [Sūrah al-Māʾidah, 5:7]
 
 Humrān ibn Abān reports that ʿUthmān !p[him] called for water for _wuḍū_ and
-mentioned the Prophet's !pbuh way of making _wuḍū_—and Humrān said: Then he
+mentioned the Prophet's BPBUH way of making _wuḍū_—and Humrān said: Then he
 washed his right arm including the elbow three times, then the left in the
 same way (al-Bukhārī and Muslim as has preceded).
 
@@ -217,20 +217,20 @@ strength); [Sūrah Hūd, 11:52]
 saw Abū Hurayrah make _wuḍū_—he washed his face and completed the _wuḍū_, then
 washed his right hand until he reached the upper arm, then his left hand till
 he reached the upper arm”— then in the end of the _ḥadīth_ he said: “This is
-how I saw the Emissary of Allāh !pbuh make _wuḍū_.” (Muslim, 1/246)
+how I saw the Emissary of Allāh BPBUH make _wuḍū_.” (Muslim, 1/246)
 
-    So, dear reader, it is clear from this _ḥadīth_ that the Prophet !pbuh used
+    So, dear reader, it is clear from this _ḥadīth_ that the Prophet BPBUH used
     to wash the elbows further, he used to increase upon that and wash part of
     the upper arm.
 
-35. Jābir !p[him] said that when the Prophet !pbuh made _wuḍū_, he would pass
+35. Jābir !p[him] said that when the Prophet BPBUH made _wuḍū_, he would pass
 the water over his elbows. (Reported by al-Dāraquṭnī (1/15), al-Bayhaqī (1/56)
 and others; Ibn Ḥajr declared it _ḥasan_; Shaykh al-Albānī declared it _ṣaḥīḥ_
 (_Ṣaḥīḥ ul-Jāmiʿ_, 4547).
 
 ## Wiping the Head and Ears and Imāmah
 
-Wiping over all of the head as Allāh !pbuh says:
+Wiping over all of the head as Allāh BPBUH says:
 
 > ...wamsahoo bi ru'oosikum...: ...rub your heads (with water)
 [Soorat-ul-Maa'idah 5:7]
@@ -255,15 +255,15 @@ that in fifteen places in his book.” (_Nayl al-Awtār_, 1/193).
 
 36. In the _ḥadīth_ of ʿAbd Allāh ibn Zayd !p[him] is further proof of the
 incorrectness of the saying that it means “a part of”—in that the Prophet
-!pbuh wiped his head with his two hands, moving them forwards and
+BPBUH wiped his head with his two hands, moving them forwards and
 backwards—beginning with the front of the head and (wiping) with them up
-to his nape then he !pbuh returned them to the place from which he began
+to his nape then he BPBUH returned them to the place from which he began
 (al-Fatḥ 1/251, Muslim #235, al-Tirmidhī #28 and others).
 
 Wiping the ears: The ruling for the ears is the same as that for the
 head.
 
-37. It is authentically reported that the Emissary of Allāh !pbuh said, “The
+37. It is authentically reported that the Emissary of Allāh BPBUH said, “The
 two ears are a part of the head.” (Reported by al-Tirmidhī (#37), Abū Dāwūd
 (#134), and Ibn Mājah (#444). It was declared _ṣaḥīḥ_ by Shaykh al-Albānī
 [_al-Ṣaḥīḥah-_, 1/36]. Imam Aḥmad was of the view that wiping the ears has the
@@ -285,34 +285,34 @@ the Sunnah anything which obligates taking fresh water for the ears—therefore
 he should wipe them along with the water for the head—just as it is also
 permissible to wipe the head with the water remaining from that of the arms
 after washing them according to the _ḥadīth_ of al-Rabīʿ bint Muʿawwiḍ that
-the Prophet !pbuh “wiped his head with water remaining in his hand.” (Reported
+the Prophet BPBUH “wiped his head with water remaining in his hand.” (Reported
 by Abū Dāwūd and others with _ḥasan isnād_)
 
 ## The Way of Wiping
 
 39. From ʿAbd Allāh ibn ʿAmr—about the way of performing _wuḍū_—he said: Then
-he !pbuh wiped his head and entered his two forefingers into his ears and
+he BPBUH wiped his head and entered his two forefingers into his ears and
 wiped the backs of his ears with his thumbs (Reported by Abū Dāwūd #135,
 al-Nasāʾī #140, Ibn Mājah #422 and authenticated by Ibn Khuzaymah).
 
 ## Wiping over the Imāmah only
 
-40. ʿAmr bin Umayyah !p[him] said: I saw the Emissary of Allāh !pbuh wipe
+40. ʿAmr bin Umayyah !p[him] said: I saw the Emissary of Allāh BPBUH wipe
 over his turban and leather socks. (Reported by al-Bukhārī [_al-Fatḥ_, 1/266]
 and others)
 
-41. Bilāl !p[him] reports that the Prophet !pbuh wiped over the leather
+41. Bilāl !p[him] reports that the Prophet BPBUH wiped over the leather
 socks and the head cover (Reported by Muslim 1/159).
 
 ## Wiping over the turban and forelock
 
-42. Al-Mughīrah bin Shuʿbah !p[him] reports that the Prophet !pbuh made
+42. Al-Mughīrah bin Shuʿbah !p[him] reports that the Prophet BPBUH made
 _wuḍū_ and wiped over his forelock and over the turban and leather socks
 (Reported by Muslim 1/159).
 
 Ibn Qudāmah says in _al-Mughnī_ (1/310); And if part of the head is uncovered
 and it is normally so, then it is preferable to wipe over that along with the
-turban - that is recorded from Aḥmad: as the Prophet !pbuh wiped over his
+turban - that is recorded from Aḥmad: as the Prophet BPBUH wiped over his
 turban and forelock, as occurs in the _ḥadīth_ of al-Mugheerah ibn Shu'bah.
 
 As for caps/‘prayer hats,’ it is not permissible to wipe over them---as Imam
@@ -332,9 +332,9 @@ Allāh !swt says,
 
 thus ordering the washing of the feet and ankles.
 
-43. Ibn ʿUmar !p[themtwo] said: the Emissary of Allāh !pbuh fell behind us and
+43. Ibn ʿUmar !p[themtwo] said: the Emissary of Allāh BPBUH fell behind us and
 then came upon us during a journey, then we found him and it was time for
-ʿAṣr, so we began to make _wuḍū_ and wipe over our feet, so he !pbuh called
+ʿAṣr, so we began to make _wuḍū_ and wipe over our feet, so he BPBUH called
 out at the top of his voice, “Woe to the ankles from the Fire.” (two or three
 times) [al-Bukhārī (_al-Fatḥ_, 1/232) and Muslim, 3/128].
 
@@ -347,20 +347,20 @@ times) [al-Bukhārī (_al-Fatḥ_, 1/232) and Muslim, 3/128].
 
 44. In the _ḥadīth_ of al-Bukhārī and Muslim from Ḥumrān bin Abān that ʿUthmān
 !p[him] called for water for _wuḍū_ and then mentioned the _wuḍū_ of the
-Prophet !pbuh. Ḥumrān then said: Then he washed his right foot to the ankle
+Prophet BPBUH. Ḥumrān then said: Then he washed his right foot to the ankle
 three times and then his left foot to the ankle three times.
 
 45. As Abū Hurayrah !p[him] did in Muslim's narration, “Then he washed his
 right foot till he reached the shin, then he washed the left foot till he
 reached the shin...” and in the end of the _ḥadīth_ he said, “This is what I
-saw the Emissary of Allāh !pbuh” do. [Muslim, 1/246].
+saw the Emissary of Allāh BPBUH” do. [Muslim, 1/246].
 
     From this _ḥadīth_---O Muslim---it becomes clear that the ankles enter
     into this washing as is clear from his saying “till he reached the shin.”
 
 <!-- TODO Who is al-Mustaurad -->
 
-46. Al-Mustawrad !p[him] said, “When the Prophet !pbuh made _wuḍū_ he would
+46. Al-Mustawrad !p[him] said, “When the Prophet BPBUH made _wuḍū_ he would
 enter the water between his toes with his little finger.” [Reported by Abū
 Dāwūd (#148), al-Tirmidhī (#40), and Ibn Mājah (#446). Declared as _ṣaḥīḥ_ by
 al-Albānī].
@@ -373,7 +373,7 @@ done by using the little finger. (See _Subul al-Salām_, 1/48).
 
 <!-- TODO Check the plural of toes and fingers as well -->
 
-47. And Laqīt bin Ṣabarah said, “The Emissary of Allāh !pbuh said, ‘Complete
+47. And Laqīt bin Ṣabarah said, “The Emissary of Allāh BPBUH said, ‘Complete
 the _wuḍū_ and wipe between the Aṣābiʿ (fingers and/or toes).’” [Abū Dāwūd
 (#142), al-Tirmidhī (#37), al-Nasāʾī (#114), Ibn Mājah (#407), and al-Ḥākim
 (1/148). Al-Albānī declared it _ṣaḥīḥ_.] Al-Ṣanʿānī says, “It clearly means
@@ -383,7 +383,7 @@ both the fingers and toes and is shown clearly in the _ḥadīth_ of Ibn ʿAbbā
 ## Reply to those who wipe the feet without washing
 
 Wiping the feet when not wearing anything on the foot is not established
-from the Prophet !pbuh. As for their using as a proof the _āyah_,
+from the Prophet BPBUH. As for their using as a proof the _āyah_,
 
 > wamsahoo bi ru'oosikum wa arjulakum ilaal ka'bayn: rub your heads and
 your feet to the ankles...[Sūrah al-Māʾidah 5:7]
@@ -400,13 +400,13 @@ particular recital. (_Subul al-Salām_, 1/58).
 The Quran is not to be explained according to the human intellect---especially
 in the matters of worship such as Ṣalāh, _wuḍū_, etc.---but by the Sunnah
 which explains this Pillar. And there are many such examples in the Qur'an
-which the Prophet !pbuh explained by his sayings---and from this is the
+which the Prophet BPBUH explained by his sayings---and from this is the
 washing of the feet---and its proof from the Sunnah has preceded.
 
 If they wish to use the intellect then we say to them: The bottom of the foot
 has more right to be wiped than the surface (their saying being the wiping of
 the surface), and if they say: Then what about the socks? we say: That is
-established from the Prophet !pbuh just as washing the foot is also
+established from the Prophet BPBUH just as washing the foot is also
 established in the Sunnah.
 
 Leaving out one of two verbs and sufficing with one of them, as the Arabs,
@@ -431,15 +431,15 @@ term wiping can be used to mean washing. (_Al-Mirqāt_, 1/400).
 
 And further, the great majority of scholars have agreed that it is obligatory
 to wash the feet and that is reported---and reaches the level of _mutawātir_
-from the Prophet !pbuh as al-Ḥāfiẓ Ibn Ḥajr says; and further it is not
+from the Prophet BPBUH as al-Ḥāfiẓ Ibn Ḥajr says; and further it is not
 established that any of the Ṣaḥābah differed regarding that---except what is
 reported from ʿAlī, Ibn ʿAbbās, and Anas !p[them]---and it is established that
 they didn't retract from it (_Al-Mirqāt_, 1/400).
 
-48. And Abū Hurayrah !p[him] reports that the Emissary of Allāh !pbuh came
+48. And Abū Hurayrah !p[him] reports that the Emissary of Allāh BPBUH came
 to the graveyard and said .**..they will come on the Day of Judgement with
 their blazes shining from the _wuḍū_** (It has preceded, #7). Meaning the the
-Emissary of Allāh !pbuh will know from the traces of the washing, as for those
+Emissary of Allāh BPBUH will know from the traces of the washing, as for those
 who do not wash then he will not know them on the Day of Judgement.
 
     Ibn Ḥajr says: And it is established that this shining of the faces, hands
@@ -459,20 +459,20 @@ being one of the citrus trees. Its singular is Arāk and its plural Arāʾik
 (_Lisān al-ʿArab_, 268).
  
 It is _mustaḥabb_ (desirable) to use the _siwāk_ at many different times as is
-established from the Prophet !pbuh that he used to use the _siwāk_ at every
+established from the Prophet BPBUH that he used to use the _siwāk_ at every
 Prayer, and before reading the Quran, and before sleeping and when waking, and
 when the breath changes---whether fasting or not---or whether at the start of
 the day or in the afternoon, and it is a form of worship which is easy
 therefore observe it, O my Muslim Brother.
 
 49. And also when making _wuḍū_ , as Abū Hurayrah !p[him] narrates that the
-Emissary of Allāh !pbuh said, “If I did not fear to cause hardship to my Ummah
+Emissary of Allāh BPBUH said, “If I did not fear to cause hardship to my Ummah
 I would have ordered them to use the _siwāk_ with every _wuḍū_.” [Reported by
 al-Tirmidhī (#22) who said: _Ḥasan Ṣaḥīḥ_, and Mālik (#123), Aḥmad (4/116),
 Abū Dāwūd (#37) and others. Al-Albānī declared it to be _ṣaḥīḥ_ (_Takhrīj
 al-Mishkāh_, #390)].
 
-50. And ʿĀʾishah !p[her] narrates that the Emissary of Allāh !pbuh said, “The
+50. And ʿĀʾishah !p[her] narrates that the Emissary of Allāh BPBUH said, “The
 _siwāk_ is a means of cleansing the mouth and pleasing the Lord.” [Al-Bukhārī
 reports it in _muʿallaq_ form---connected by Aḥmad, al-Nasāʾī, Ibn Khuzaymah
 and Ibn Ḥibbān].
@@ -480,14 +480,14 @@ and Ibn Ḥibbān].
 ## Al-Dalk
 
 _Al-Dalk_, meaning rubbing water over the body parts, is part of the _wuḍū_
-authentically reported from the Prophet !pbuh. Al-Mustawrid bin Shadād said,
-“I saw the Emissary of Allāh !pbuh when he made _wuḍū_ rubbing his toes with
+authentically reported from the Prophet BPBUH. Al-Mustawrid bin Shadād said,
+“I saw the Emissary of Allāh BPBUH when he made _wuḍū_ rubbing his toes with
 his litle finger.” (_Ṣaḥīḥ_).
 
-51. ʿAbd Allāh bin Zayd !p[him] narrates that the Prophet !pbuh made _wuḍū_
+51. ʿAbd Allāh bin Zayd !p[him] narrates that the Prophet BPBUH made _wuḍū_
 and said, “Rub in this way.” (See _Nayl al-Awtār_, 4/39).
 
-52. He !p[him] also narrates that the Prophet !pbuh made _wuḍū_ with two
+52. He !p[him] also narrates that the Prophet BPBUH made _wuḍū_ with two
 thirds of a _mudd_^[_mudd_: a measure of volume. Approximately what one's two
 hands can scoop up] (of water) and rubbed over his forearms. (Ibn Khuzaymah
 (#118), and its _isnād_ is _ṣaḥīḥ_---and al-Ḥākim (1/161) reports it by way of
@@ -499,10 +499,10 @@ As for what is narrated regarding the _order_ as mentioned in the _āyah_, then
 there is nothing to contradict that---and this order is obligatory (_wājib_)
 and it is said, _sunnah_. [See _Fiqh al-Imām Saʿīd bin al-Muṣayyib_, 1/64].
 
-As for what is related with regard to the Prophet's _wuḍū_!pbuh then it has
+As for what is related with regard to the Prophet's _wuḍū_BPBUH then it has
 been reported sometimes out of the regular order. And the proof is:
 
-53. Al-Miqdām bin Maʿd Yakrib said, “I came to the Prophet !pbuh with water
+53. Al-Miqdām bin Maʿd Yakrib said, “I came to the Prophet BPBUH with water
 for _wuḍū_, so he washed his hands three times, then washed his face three
 times, then washed his forearms three times, then washed his mouth and nose
 three times, then wiped his head and ears---their outsides and insides---and
@@ -511,7 +511,7 @@ _ṣaḥīḥ isnād_. Al-Shawkānī (1/1\~5) said, “Its _isnād_ is good, and
 reported by ad-Diyaa in _al-Mukhtārah_.” Shaykh al-Albānī recorded it in
 _al-Ṣaḥīḥah_, #261]
 
-    So this is a proof that he !pbuh did not always stick to the regular order---
+    So this is a proof that he BPBUH did not always stick to the regular order---
     and this is a proof that it is not obligatory---however, his sticking to it
     mostly shows that it is Sunnah. And Allāh Knows best.
 
@@ -537,7 +537,7 @@ the _aḥādīth_. Allāh Knows best.”
 _Al-Mawālāh_ refers to washing each part directly after the previous, leaving
 no time gap in between.
 
-Nothing other than this is established from the Prophet !pbuh. It is however
+Nothing other than this is established from the Prophet BPBUH. It is however
 established that Ibn ʿUmar !p[themtwo] urinated within the market, then made
 _wuḍū_ and so washed his face and hands and wiped his head, then he was called
 to pray over a _janāzah_, so he entered the mosque then wiped over his leather
@@ -550,19 +550,19 @@ reported of the two sayings of al-Shāfiʿī].
 
 That is washing the right hand before the left and likewise the feet.
 
-54. ʿĀʾishah !p[her] said, “The Emissary of Allāh !pbuh used to like to begin
+54. ʿĀʾishah !p[her] said, “The Emissary of Allāh BPBUH used to like to begin
 with the right in putting on shoes, combing his hair, in purification and in
 all of his affairs.” [Al-Bukhārī (_al-Fatḥ_) 1/235, Muslim (#267), and
 others].
 
-55. Abū Hurayrah !p[him] narrates that the Prophet !pbuh said, “When you dress
+55. Abū Hurayrah !p[him] narrates that the Prophet BPBUH said, “When you dress
 and when you make _wuḍū_, then begin with the right.” [Abū Dāwūd (#4141),
 al-Tirmidhī (1766), and al-Nasāʾī (402). Shaykh al-Albānī declared it
 _ṣaḥīḥ_].
 
 ## Economizing the use of water and not being wasteful
 
-56. Anas !p[him] said, “The Prophet !pbuh used to make _wuḍū_ with a _mudd_
+56. Anas !p[him] said, “The Prophet BPBUH used to make _wuḍū_ with a _mudd_
 (of water) and make _ghusl_ with a _ṣāʿ_ or up to five _mudds_.” [Muslim (1/156)
 and others]. A _ṣāʿ_ is equal to four _mudds_.
 
@@ -572,14 +572,14 @@ and making _wuḍū_ and sometimes talking to his companion whilst the water is
 running out---what an excess in wastefulness! So he who does that should fear
 Allāh and remember this _ḥadīth_ and keep it in mind and follow the Sunnah
 with regard to using the water sparingly and not being wasteful---and here the
-true following of the Prophet !pbuh is made clear and the true Muslim's
+true following of the Prophet BPBUH is made clear and the true Muslim's
 belief. It is from the Sunnah for the Muslim who wishes to make _wuḍū_ to have
 with him a container large enough for a _mudd_ of water---in order to force
 himself to return to the following of the Sunnah.
 
 ## The supplication after wuḍū
 
-57. ʿUmar bin al-Khaṭṭāb !p[him] said, “The Emissary of Allāh !pbuh said, ‘None of you makes _wuḍū_ and completes the _wuḍū_ then says:
+57. ʿUmar bin al-Khaṭṭāb !p[him] said, “The Emissary of Allāh BPBUH said, ‘None of you makes _wuḍū_ and completes the _wuḍū_ then says:
 
 <!-- TODO Add Arabic -->
 
@@ -596,7 +596,7 @@ And al-Tirmidhī adds an authentic addition to it:
 (_Trans._ O Allāh, make me one of those who constantly repents to You and of
 those who purify themselves.) [Declared as _ṣaḥīḥ_ by al-Albānī].
 
-58. Abū Saʿīd al-Khudrī !p[him] said, “The Emissary of Allāh !pbuh said,
+58. Abū Saʿīd al-Khudrī !p[him] said, “The Emissary of Allāh BPBUH said,
 
 ‘Whoever makes _wuḍū_ then says upon finishing the _wuḍū_,
 
@@ -610,21 +610,21 @@ _ʿAmal al-Yawn wa al-Laylah_, #30. Declared as _ṣaḥīḥ_ by al-Albānī].
 
 ## Washing each body part once
 
-59. Ibn ʿAbbās !p[him] said, “The Emissary of Allāh !pbuh made _wuḍū_ (washing each part) once.” [al-Bukhārī (_al-Fatḥ_) 1/226].
+59. Ibn ʿAbbās !p[him] said, “The Emissary of Allāh BPBUH made _wuḍū_ (washing each part) once.” [al-Bukhārī (_al-Fatḥ_) 1/226].
 
 ## Washing each body part twice
 
-60. ʿAbd Allāh bin Zayd narrates that the Prophet !pbuh made _wuḍū_ (washing each part) twice. [al-Bukhārī (_al-Fatḥ_) 1/226].
+60. ʿAbd Allāh bin Zayd narrates that the Prophet BPBUH made _wuḍū_ (washing each part) twice. [al-Bukhārī (_al-Fatḥ_) 1/226].
 
 ## Washing each body part thrice
 
 61. In the _ḥadīth_ of ʿUthmān !p[him] recorded by al-Bukhārī and Muslim, he
-!pbuh washed each of the parts three times.
+BPBUH washed each of the parts three times.
 
 So from these _aḥādīth_ it becomes clear to us that, as is well-known to the
 large majority of scholars, washing each body-part once is obligatory---and
 the second and third washings are Sunnah---and it is better to do likewise
-following the Sunnah of the Prophet !pbuh [_al-Majmūʿ_ of al-Nawawī, 1/229].
+following the Sunnah of the Prophet BPBUH [_al-Majmūʿ_ of al-Nawawī, 1/229].
 
 
 
@@ -633,18 +633,18 @@ following the Sunnah of the Prophet !pbuh [_al-Majmūʿ_ of al-Nawawī, 1/229].
 Al-Ḥāfiẓ says in _al-Fatḥ_ (1/172) under the question _Making wuḍū without
 having broken it_,
 
-62. Anas !p[him] narrated that the Prophet !pbuh used to make _wuḍū_ for every
+62. Anas !p[him] narrated that the Prophet BPBUH used to make _wuḍū_ for every
 prayer. He was asked, “What did you (the Ṣaḥābah) use to do?” He replied,
 “One _wuḍū_ was sufficient for us till such time as we broke it.”
 
 This _ḥadīth_ is evidence that what is meant generally is the obligatory
 prayer.
 
-Al-Ṭaḥāwī says, “It may be that that was obligatory upon him !pbuh
+Al-Ṭaḥāwī says, “It may be that that was obligatory upon him BPBUH
 particularly and was later abrogated on the Day of Fatḥ by the _ḥadīth_ of
-Buraydah---which Muslim reports---that he !pbuh prayed all the Prayers on the
+Buraydah---which Muslim reports---that he BPBUH prayed all the Prayers on the
 Day of Fatḥ with one _wuḍū_ and that ʿUmar !p[him] asked him about that so he
-!pbuh said, “I did it deliberately.” Or it may be that he !pbuh used to do it
+BPBUH said, “I did it deliberately.” Or it may be that he BPBUH used to do it
 out of desirability only, then feared that it might be thought to be
 obligatory, and so left it to show the permissibility of that.” [MISSING
 REFERENCE]
@@ -664,7 +664,7 @@ of the great majority of scholars and it is the saying of Abū Ḥanīfah,
 al-Shāfiʿī, and Aḥmad. [_Al-Mughnī_ (1/193) and _Fiqh al-Awzāʿī_, 1/56].
 
 63. And the proof for this is what is established from Abū Hurayrah !p[him],
-who said, “The Emissary of Allāh !pbuh said, ‘If one of you feels something in
+who said, “The Emissary of Allāh BPBUH said, ‘If one of you feels something in
 his stomach and he isn't sure did anything (wind) come out of it or not---then
 let him not leave the mosque until he hears a sound or finds a smell.’”
 [Muslim (_Sharḥ al-Nawawī_, 4/51), _ʿĀridah al-Aḥwadhī bi Sharḥ Ṣaḥīḥ
@@ -677,10 +677,10 @@ he remains upon _wuḍū_.
 
 ## A man and woman's washing from a single vessel
 
-64. Ibn ʿAbbās !p[themtwo] narrates that one of the wives of the Prophet !pbuh
-took a _ghusl_ from _janābah_ then saw the Emissary of Allāh !pbuh about to
+64. Ibn ʿAbbās !p[themtwo] narrates that one of the wives of the Prophet BPBUH
+took a _ghusl_ from _janābah_ then saw the Emissary of Allāh BPBUH about to
 take a _ghusl_ from the remaining water, so she informed him that she had made
-_ghusl_ therefrom. So, the Emissary of Allāh !pbuh said, “Nothing makes the
+_ghusl_ therefrom. So, the Emissary of Allāh BPBUH said, “Nothing makes the
 water impure.” [Reported by Abū Dāwūd (#67), and al-Nasāʾī (#326), al-Tirmidhī
 who declared it to be _hasan ṣaḥīḥ_, and Ibn Mājah (#370)].
 
@@ -697,14 +697,14 @@ Yaʿlā, Abū al-Aḥwaṣ, al-Shaʿbī, al-Thawrī, Isḥāq, Ibn ʿUmar in a n
 and Abū Ḥanīfah, Mālik, Aḥmad, and the Shāfiʿī Madhhab in one saying, all say
 that it is permissible after both _wuḍū_ and _ghusl_ to dry the body parts.
 And their evidence is what ʿĀʾishah !p[her] reports---she said, “The Emissary
-of Allāh !pbuh had a cloth which he used to dry himself with after making
+of Allāh BPBUH had a cloth which he used to dry himself with after making
 _wuḍū_.” [Reported by al-Tirmidhī who declared it to be _ḍaʿīf_. Then al-ʿAynī
 states that al-Nasāʾī records it in _al-Kunā_ with a _ṣaḥīḥ isnād_.  I say:
 And it has other narrations which support and strengthen it. (See _Fiqh
 al-Imām Saʿīd_, 1/70). Al-Albānī declares the _ḥadīth_ to be _ḥasan_. (_Ṣaḥīḥ
 al-Jāmiʿ_, 4706).
 
-66. Salmān al-Fārsī narrates that the Prophet !pbuh made _wuḍū_, then turned
+66. Salmān al-Fārsī narrates that the Prophet BPBUH made _wuḍū_, then turned
 up a woollen cloak he had and wiped his face with it. [Reported by Ibn Mājah
 (#468)]. In _al-Zawāʾid_, it is said: Its _isnād_ is _ṣaḥīḥ_. I say: In its
 _isnād_ is al-Waḍīn bin ʿAṭāʾ who is _ṣadūq_ but has a bad memory as al-Hāfiẓ
@@ -716,7 +716,7 @@ Some others hold it to be _makrūh_ to dry the body parts after
 purification and their proof is:
 
 67. What is established from Maymūnah !p[her] who described the Prophet's
-!pbuh _ghusl_ from _janābah_ and said, “Then I brought him a cloth but he
+BPBUH _ghusl_ from _janābah_ and said, “Then I brought him a cloth but he
 refused it.” [Al-Bukhārī and Muslim and the wording is the latter's].
 
 Conclusion: Drying the body parts is one of the desirable actions as shown by

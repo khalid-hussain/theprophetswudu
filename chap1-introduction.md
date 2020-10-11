@@ -28,7 +28,7 @@ obeys Allāh and His Messenger has certainly attained a great attainment.)
 (al-Aḥzāb, Q33:70--71)
 
 As for what follows: Verily the most truthful speech is the Word of Allāh and
-the best guidance is the guidance of Muhammad !pbuh, and the worst of affairs
+the best guidance is the guidance of Muhammad BPBUH, and the worst of affairs
 are the novelties and every novelty is an innovation and every innovation is a
 going astray and every going astray is in the Fire.
 
@@ -48,8 +48,8 @@ what occurs within the books of reference as we have explained---but I have not
 found this in the form of a treatise.
 
 My method for this treatise has been not to quote except what is authentic from
-the _ḥadīth_ of the Messenger of Allāh !pbuh---if Allāh wishes---ordering it
-according to the order of the _Wuḍū_ of the Messenger of Allāh !pbuh, and I have
+the _ḥadīth_ of the Messenger of Allāh BPBUH---if Allāh wishes---ordering it
+according to the order of the _Wuḍū_ of the Messenger of Allāh BPBUH, and I have
 commented on some of the points about which there is difference of opinion,
 stating that which is correct therefrom in our view after replying to the other
 opinions.
@@ -78,27 +78,27 @@ Allāh !swt says,
 the ankles.)
 (al-Māʾidah, Q5:7)
 
-1. Abū Hurayrah !p[him] said: The Emissary of Allāh !pbuh said,
+1. Abū Hurayrah !p[him] said: The Emissary of Allāh BPBUH said,
 
     [«لَا تُقْبَلُ صَلَاةُ أَحَدِكُمْ إِذَا أَحْدَثَ حَتَّىٰ يَتَوَضَّأَ»]
     {lang=ar}
 
     “The _ṣalāh_ of anyone of you breaching purification is not accepted unless he makes _wuḍū_.”[^1]
 
-2. Ibn ʿUmar !p[themtwo] said: Indeed, I heard the Emissary of Allāh !pbuh say,
+2. Ibn ʿUmar !p[themtwo] said: Indeed, I heard the Emissary of Allāh BPBUH say,
 
     [«لَا يَقْبَلُ اللهُ صَلَاةً بِغَيْرِ طَهُورٍ وَلَا صَدَقَةً مِنْ غَلُولٍ»]
     {lang=ar}
 
     “Allāh does not accept _ṣalāh_ without purification, nor _ṣadaqah_ from illegally attained wealth.”[^2]
 
-3. Ibn ʿAbbās !p[themtwo] said: The Emissary of Allāh !pbuh said,
+3. Ibn ʿAbbās !p[themtwo] said: The Emissary of Allāh BPBUH said,
 
     [«إِنَّمَا أُمِرْتُ بِالوُضُوءِ إِذَا قُمْتُ إِلَىٰ الصَّلَاةِ»]{lang=ar}
 
     “Verily I have been ordered to make _wuḍū_ when I stand for _ṣalāh_.”[^3]
 
-4. Abū Saʿīd !p[him] said: The Emissary of Allāh !pbuh said,
+4. Abū Saʿīd !p[him] said: The Emissary of Allāh BPBUH said,
 
     [«مِفْتَاحُ الصَّلَاةِ الطَّهُورُ، وَتَحْرِيمُهَا التَّكْبِيرُ، وَتَحْلِيلُهَا التَّسْلِيمُ»]{lang=ar}
 
@@ -106,13 +106,13 @@ the ankles.)
 
 ## The Excellence of Wuḍū
 
-5. Abū Hurayrah !p[him] said: The Emissary of Allāh !pbuh said,
+5. Abū Hurayrah !p[him] said: The Emissary of Allāh BPBUH said,
 
     [«أَلَا أَدُلُّكُمْ عَلَىٰ مَا يَمْحُو اللهُ بِهِ الخَطَايَا وَيَرْفَعُ بِهِ الدَّرَجَاتِ؟» قَالُوا: بَلَىٰ يَا رَسُولَ اللهِ! قَالَ «إِسْبَاغُ الوُضُوءِ عَلَىٰ المَكَارِهِ، وَكَثْرَةُ الخُطَا إِلَىٰ المَسَاجِدِ، وَانْتِظَارُ الصَّلَاةِ بَعْدَ الصَّلَاةِ، فَذٰلِكُمُ الرِّبَاطُ، فَذٰلِكُمُ الرِّبَاطُ، فَذٰلِكُمُ الرِّبَاطُ»]{lang=ar}
 
-    “Shall I not guide you to that by which Allāh wipes away the sins and raises the ranks?” They said, “Certainly O Emissary of Allāh!” He !pbuh said, “Completing the _wuḍū_ when it is a hardship, many steps to the mosques, and waiting for the [next] prayer after the prayer, that is _al-Ribāṭ_ (defending the frontiers); that is _al-Ribāṭ_; that is _al-Ribāṭ_.”[^7]
+    “Shall I not guide you to that by which Allāh wipes away the sins and raises the ranks?” They said, “Certainly O Emissary of Allāh!” He BPBUH said, “Completing the _wuḍū_ when it is a hardship, many steps to the mosques, and waiting for the [next] prayer after the prayer, that is _al-Ribāṭ_ (defending the frontiers); that is _al-Ribāṭ_; that is _al-Ribāṭ_.”[^7]
 
-6. Abū Hurayrah !p[him] reports that Emissary of Allāh !pbuh said, “When the
+6. Abū Hurayrah !p[him] reports that Emissary of Allāh BPBUH said, “When the
 Muslim (or 'Believing') servant makes _wuḍū_ and washes his face then the sin
 of everything he looked at with his eye comes away with the water, or with the
 last drop of the water, and when he washes his hands then the sin of
@@ -121,11 +121,11 @@ the last drop of the water. And when he washes his feet every sin which his
 feet walked towards comes away with the water or with the last drop of the
 water---so that he leaves clean (clear/pure) from sins.”[^8]
 
-7. Abū Hurayrah !p[him] reports that Emissary of Allāh !pbuh came to the
+7. Abū Hurayrah !p[him] reports that Emissary of Allāh BPBUH came to the
 graveyard and said, “Peace be upon you, dwelling of Believing People and we
 will (all) if Allāh wills join you soon. I would have liked to have seen our
 brothers!” They said, “Are we not your brothers, O Emissary of Allāh?” He
-!pbuh said, “You are my Companions and our brothers are those who have not yet
+BPBUH said, “You are my Companions and our brothers are those who have not yet
 come!” They said, “How will you know those who have not yet come from your
 _Ummah_, O Emissary of Allāh?” He said, “Have you not seen that if a man had a
 horse with a white blaze and hoof along with a totally jet-black horse, then
@@ -136,12 +136,12 @@ from my _water-tank_ as the lost camel is driven away from their gathering
 place. ‘Come on.’ So it will be said: ‘Indeed they have made changes after
 you,’ so I will say, ‘Be off, be off.’”[^9]
 
-8. Abū Umāmah !p[him] said: The Emissary of Allāh !pbuh said, “When a Muslim
+8. Abū Umāmah !p[him] said: The Emissary of Allāh BPBUH said, “When a Muslim
 makes _wuḍū_ the sins he has committed come away from his hearing and from his
 sight and from his hand and from his feet, so when he sits he sits down having
 been forgiven.”[^10]
 
-9. Abū Mālik al-Ashʿarī !p[him] said: The Emissary of Allāh !pbuh said,
+9. Abū Mālik al-Ashʿarī !p[him] said: The Emissary of Allāh BPBUH said,
 “Purification is half of Īmān; and _alḥamdulillāh_ fills the Scales; and
 _subḥānAllāh_ and _alḥamdulillāh_ fill whatever is between the heaven and the
 earth; and _Ṣalāh_ is a light; and _Ṣadaqah_ is a clear proof; and _Ṣabr_
@@ -149,7 +149,7 @@ earth; and _Ṣalāh_ is a light; and _Ṣadaqah_ is a clear proof; and _Ṣabr_
 Every person starts the day dealing for his own soul so he either sets it free
 or destroys it.”[^11]
 
-10. ʿUthmān !p[him] said: The Emissary of Allāh !pbuh said, “Whoever makes
+10. ʿUthmān !p[him] said: The Emissary of Allāh BPBUH said, “Whoever makes
 _wuḍū_ and makes it well, his sins come out from his body, even coming out
 from under his nails.”[^12]
 
@@ -157,7 +157,7 @@ from under his nails.”[^12]
 
 ----
 
-12. ʿUthmān !p[him] said: The Emissary of Allāh !pbuh said, “Whoever makes
+12. ʿUthmān !p[him] said: The Emissary of Allāh BPBUH said, “Whoever makes
 _wuḍū_ like this---then all of his previous sins are forgiven---and his
 _Ṣalāh_ and his walking to the masjid are above and beyond that.”[^13]
 
@@ -168,34 +168,34 @@ deeds and his right foot continually writes for him good deeds until he enters
 the masjid. And if the people knew what there was in the night prayer and Subh
 prayers, then they would come to them even if they had to crawl.[^14]
 
-14. Abū Hurayrah !p[him] said: The Emissary of Allāh !pbuh said, “Whoever
+14. Abū Hurayrah !p[him] said: The Emissary of Allāh BPBUH said, “Whoever
 makes _wuḍū_ and makes it well then goes out---and then finds that the people
 have finished the _Ṣalāh_--- then Allāh gives him the same reward as one who
 had prayed it along with the people without diminishing any of their
 reward.[^15]
 
 15. Zayd ibn Khālid al-Juhanī !p[him] relates that the Emissary of Allāh
-!pbuh said, “Whoever makes _wuḍū_ and makes it well, then prays two _rakʿahs_
+BPBUH said, “Whoever makes _wuḍū_ and makes it well, then prays two _rakʿahs_
 not letting his mind wander in them---then Allāh forgives him all of his
 previous sins.”[^16]
 
-16. ʿUqbah ibn ʿĀmir !p[him] said: The Emissary of Allāh !pbuh said,
+16. ʿUqbah ibn ʿĀmir !p[him] said: The Emissary of Allāh BPBUH said,
 “Whoever makes _wuḍū_ and makes it well, then prays two _rakʿahs_
 concentrating therein with his heart and his face---then Paradise is
 obligatory for him.”[^17]
 
-17. ʿUthmān !p[him] said: I heard the Emissary of Allāh !pbuh say, “Whoever
+17. ʿUthmān !p[him] said: I heard the Emissary of Allāh BPBUH say, “Whoever
 makes _wuḍū_ for _Ṣalāh_ and completes the _wuḍū_---then walks to the
 obligatory _Ṣalāh_ and prays it with the people---or with the
 congregation---or in the mosque---then Allāh forgives his sins.”[^18]
 
-18. ʿAlī !p[him] relates that the Emissary of Allāh !pbuh said, “Completing
+18. ʿAlī !p[him] relates that the Emissary of Allāh BPBUH said, “Completing
 the _wuḍū_ when it is a hardship, and walking to the masjid, and waiting for
 the next prayer after the previous one (greatly) washes away the sins.”[^19]
 
 19. Humrān ibn Abān relates that ʿUthmān asked for water to make _wuḍū_---then
-he mentioned how the Emissary of Allāh !pbuh made _wuḍū_. Then he !p[him]
-said, “The Emissary of Allāh !pbuh said at the end of the _ḥadīth_,  ‘Whoever
+he mentioned how the Emissary of Allāh BPBUH made _wuḍū_. Then he !p[him]
+said, “The Emissary of Allāh BPBUH said at the end of the _ḥadīth_,  ‘Whoever
 makes _wuḍū_ in the same way that I have just made _wuḍū_ then stands up and
 prays two _rakʿahs_, not thinking of other things, then his previous sins are
 forgiven.’”[^20]
