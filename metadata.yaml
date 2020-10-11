@@ -2,9 +2,10 @@
 documentclass: memoir
 documentclassoptions: ebook
 fontsize: 14pt
-title: The Prophet's Wuḍū
+title: "The Prophet's Wuḍū"
+author: "Shaykh Fahd ʿAbd al-Raḥmān al-Shuwayb"
+date: pyTime
 mainfont: Adobe Garamond Pro
 publisher: Granada Publications
 toc: true
 ---
-
