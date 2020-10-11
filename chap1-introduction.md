@@ -28,7 +28,7 @@ obeys Allāh and His Messenger has certainly attained a great attainment.)
 (al-Aḥzāb, Q33:70--71)
 
 As for what follows: Verily the most truthful speech is the Word of Allāh and
-the best guidance is the guidance of Muhammad BPBUH, and the worst of affairs
+the best guidance is the guidance of Muḥammad BPBUH, and the worst of affairs
 are the novelties and every novelty is an innovation and every innovation is a
 going astray and every going astray is in the Fire.
 

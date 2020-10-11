@@ -584,7 +584,7 @@ himself to return to the following of the Sunnah.
 <!-- TODO Add Arabic -->
 
 (_Trans._ I bear witness that none has the right to be worshipped except
-Allāh, and that Muhammad is His slave and Messenger) except that all eight
+Allāh, and that Muḥammad is His slave and Messenger) except that all eight
 Gates of Paradise are opened for him---so that he enters by whichever he
 pleases.’” [Reported by Muslim (#234), Abū Dāwūd (#169), al-Tirmidhī (#55),
 al-Nasāʾī (#148), and Ibn Mājah (#470)].
