@@ -19,14 +19,23 @@ SOURCE =	./metadata.yaml \
 default: docx
 
 docx:
-	cat util/_macros.md metadata.yaml $(FM) $(SOURCE) _end.md | \
+	cat util/_macros.md metadata.yaml $(SOURCE) | \
 	$(GPP) -x | \
-	pandoc -t docx \
-	--filter pandoc-citeproc \
-	--reference-doc=$(TEMPLATE) \
+	pandoc -t docx -f markdown+startnum+four_space_rule \
+	--reference-doc=template.docx \
+	--citeproc \
 	--csl $(CSL) \
 	--toc \
 	-o dist/$(TODAY)-prophets-wudu-draft.docx
+
+html:
+	cat util/_macros.md metadata.yaml $(SOURCE) | \
+	$(GPP) -x | \
+	pandoc -t html5 -s -f markdown+startnum+four_space_rule \
+	--citeproc \
+	--csl $(CSL) \
+	--toc \
+	-o dist/$(TODAY)-prophets-wudu-draft.html
 
 latex:
 	cat metadata.yaml \
