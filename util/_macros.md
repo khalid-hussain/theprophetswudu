@@ -31,6 +31,8 @@
 #define BP_THM ([رضي الله عنهم]{custom-style="kBody Honorifics"})
 #define BM_HIM ([رحمه الله تعالى]{custom-style="kBody Honorifics"})
 
+#define BSWT ([سبحانه وتعالى]{custom-style="kBody Honorifics"})
+
 #define BUG []{custom-style="wingdings"}
 
 #define ENGLISH_SANAD [TODO English sanad]{custom-style='kRED'}
