@@ -1,5 +1,6 @@
 
 
+
 # Nullifiers of wuḍū
 
 ## Anything that exits the two private parts
@@ -123,4 +124,3 @@ _Summary:_ That when a man and woman are safe from anything being emitted
 which breaks _wuḍū_---then their _wuḍū_ is not broken; and it is preferable to
 be on the safe side, as they may not be safe from such emissions in the
 condition of desire. And Allāh BSWT knows best.
-

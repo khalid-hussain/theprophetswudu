@@ -723,7 +723,4 @@ refused it.” [Al-Bukhārī and Muslim and the wording is the latter's].
 Conclusion: Drying the body parts is one of the desirable actions as shown by
 the _ḥadīth_ of ʿĀʾishah BP_HER. As for the saying that it is _makrūh_, then
 that is not acceptable as the saying of Maymūnah BP_HER, “but he refused it,”
-does not amount to the fact that it is _makrūh_---and Allāh knows best.
-
-
-
+does not amount to the fact that it is _makrūh_ -- and Allāh knows best.

@@ -18,6 +18,10 @@ theHijriDate = f'{theDay}, {theDate} {theMonth}, {theYear}'
 # dd/mm/YY H:M:S
 # dt_string = now.strftime("%A, %d %B %Y (%I:%M:%S %p)")
 dt_string = now.strftime("(%I:%M:%S %p)")
+theHijriDateAndTime = theHijriDate + ' ' + dt_string
+
+# https://stackoverflow.com/questions/3597480/how-to-make-python-3-print-utf8/3603160#3603160
+sys.stdout.buffer.write((theHijriDateAndTime).encode('utf-8'))
 
 # Remove newline at the end of the string
-print(theHijriDate, dt_string, end='')
+# print("\"", theHijriDate, dt_string, "\"", end='')

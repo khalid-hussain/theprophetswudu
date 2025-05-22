@@ -1,49 +1,83 @@
-TODAY = $(shell date +'%Y-%m-%d')
+SHELL = /bin/bash
+PLATFORM := $(shell uname)
+TODAY = $(shell date +'%Y%m%d-%H%M')
+MACROS = utils/gpp/macros.md
+TEMPLATE = utils/template.docx
+CSL = utils/chicago-fullnote-bibliography-short-title-subsequent.csl
 
-GPP = /d/programs/gpp2.27.exe
-# ./gpp.exe
-# ./gpp2.27.exe
+ifeq ($(PLATFORM),Linux)
+GPP = gpp
+else
+GPP = utils/gpp/gpp.exe
+endif
 
-TEMPLATE = template.docx
+MACROS = utils/gpp/_macros.pp
 
-CSL = chicago-fullnote-bibliography-short-title-subsequent.csl
-
-SOURCE =	./metadata.yaml \
-			./chap1-introduction.md \
-			./chap2-components-of-wudu.md \
-			./chap3-nullifiers-of-wudu.md \
-			./chap4-conclusion.md \
-			./_end.md \
-			./metadata.yaml
+METADATA = metadata.yaml
+FM = content/frontmatter/*.md
+MM = content/mainmatter/*.md
+CONTENT = $(FM) $(MM)
 
 default: docx
 
 docx:
-	cat util/_macros.md metadata.yaml $(SOURCE) | \
-	$(GPP) -x | \
-	pandoc -t docx -f markdown+startnum+four_space_rule \
-	--reference-doc=template.docx \
-	--citeproc \
-	--csl $(CSL) \
-	--toc \
-	-o dist/$(TODAY)-prophets-wudu-draft.docx
+	for file in $(CONTENT); do \
+		fifo=$$(mktemp -u); \
+		FIFOS+=("$$fifo"); \
+		cat $(MACROS) "$$file" | \
+		$(GPP) -DWORD -x -o "$$fifo" & \
+	done; \
+	pandoc metadata.yaml "$${FIFOS[@]}" -f markdown -t docx \
+	--bibliography=utils/master.bib \
+	--citeproc --csl $(CSL) \
+	--reference-doc=$(TEMPLATE) \
+	--file-scope \
+	-o dist/$(TODAY).docx
 
-html:
-	cat util/_macros.md metadata.yaml $(SOURCE) | \
-	$(GPP) -x | \
-	pandoc -t html5 -s -f markdown+startnum+four_space_rule \
-	--citeproc \
-	--csl $(CSL) \
-	--toc \
-	-o dist/$(TODAY)-prophets-wudu-draft.html
+epub:
+	for file in $(CONTENT); do \
+		fifo=$$(mktemp -u); \
+		FIFOS+=("$$fifo"); \
+		cat $(MACROS) "$$file" | \
+		$(GPP) -DEPUB -x -o "$$fifo" & \
+	done; \
+	pandoc metadata.yaml "$${FIFOS[@]}" \
+	-f markdown \
+	-t epub3 -s \
+	--css=./utils/css/boilerplate.css \
+	--css=./utils/css/trueilm.css \
+	--epub-embed-font=./utils/fonts/UthmanTN1Ver20.ttf \
+	--epub-embed-font=./utils/fonts/UthmanicHafs_V22.ttf \
+	--citeproc --csl $(CSL) \
+	--file-scope \
+	-o dist/$(TODAY)-sealed-nectar.epub
 
-latex:
-	cat metadata.yaml \
-	_macros.md \
-	source.md \
-	footnotes.md | \
-	pp -pdf | \
-	pandoc -t latex \
-	-f markdown+startnum+four_space_rule \
-	-o book/content.tex \
+chunkedhtml:
+	for file in $(CONTENT); do \
+		fifo=$$(mktemp -u); \
+		FIFOS+=("$$fifo"); \
+		cat $(MACROS) "$$file" | \
+		$(GPP) -DWORD -x -o "$$fifo" & \
+	done; \
+	pandoc metadata.yaml "$${FIFOS[@]}" -f markdown -t chunkedhtml \
+	--citeproc --csl $(CSL) \
+	--file-scope \
+	-o dist/chunkedhtml
 
+html5:
+	for file in $(CONTENT); do \
+		cat $(MACROS) metadata.yaml "$$file" | \
+		$(GPP) -DEPUB -x | \
+		pandoc -f markdown -t html5 -s \
+		--citeproc --csl $(CSL) \
+		-o dist/"$$file".html & \
+	done
+
+clean:
+	rm -rf dist/chunkedhtml
+	rm dist/content/frontmatter/*.*
+	rm dist/content/mainmatter/*.*
+	rm dist/content/backmatter/*.*
+
+# https://stackoverflow.com/questions/9532654/expression-after-last-specific-character
+# ${foo##*/}
