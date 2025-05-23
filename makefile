@@ -50,7 +50,7 @@ epub:
 	--epub-embed-font=./utils/fonts/UthmanicHafs_V22.ttf \
 	--citeproc --csl $(CSL) \
 	--file-scope \
-	-o dist/$(TODAY)-sealed-nectar.epub
+	-o dist/$(TODAY).epub
 
 chunkedhtml:
 	for file in $(CONTENT); do \
