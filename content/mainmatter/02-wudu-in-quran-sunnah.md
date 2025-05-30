@@ -15,7 +15,7 @@ the ankles. (al-Māʾidah, Q5:7)
 
 
 
-1. Abū Hurayrah \hon{\P_HIM}{\BODY} said, “The Emissary of Allāh \hon{\PBUH}{\BODY} said,
+1. Abū Hurayrah \hon{\P_HIM}{\BODY} said, “The Messenger of Allāh \hon{\PBUH}{\BODY} said,
 
    ::: {custom-style="Numlist Arabic Paragraph" dir="rtl" lang="ar"}
    «لَا تُقْبَلُ صَلَاةُ أَحَدِكُمْ إِذَا أَحْدَثَ، حَتَّىٰ يَتَوَضَّأَ»
@@ -24,7 +24,7 @@ the ankles. (al-Māʾidah, Q5:7)
    «The _ṣalāh_ of anyone of you breaching purification is not accepted unless
    he makes _wuḍū_.»”[-@@muslim, vol. 2, p. 7, #216]
 
-2. Ibn ʿUmar \hon{\P_TWO}{\BODY} said, “Indeed, I heard the Emissary of Allāh
+2. Ibn ʿUmar \hon{\P_TWO}{\BODY} said, “Indeed, I heard the Messenger of Allāh
    \hon{\PBUH}{\BODY} say,
 
    ::: {custom-style="Numlist Arabic Paragraph" dir="rtl" lang="ar"}
@@ -34,7 +34,7 @@ the ankles. (al-Māʾidah, Q5:7)
    «Allāh does not accept _ṣalāh_ without purification, nor _ṣadaqah_ from
    illegally attained wealth.»”[-@@muslim, vol. 2, p. 7, #215]
 
-3. Ibn ʿAbbās \hon{\P_TWO}{\BODY} said, “The Emissary of Allāh
+3. Ibn ʿAbbās \hon{\P_TWO}{\BODY} said, “The Messenger of Allāh
    \hon{\PBUH}{\BODY} said,
 
    ::: {custom-style="Numlist Arabic Paragraph" dir="rtl" lang="ar"}
@@ -44,7 +44,7 @@ the ankles. (al-Māʾidah, Q5:7)
    «Verily I have been ordered to make _wuḍū_ when I stand for _ṣalāh_.»”
    [-@@abudawud, vol. 6, p. 78, #3713]
 
-4. Abū Saʿīd \hon{\P_HIM}{\BODY} said, “The Emissary of Allāh \hon{\PBUH}{\BODY}
+4. Abū Saʿīd \hon{\P_HIM}{\BODY} said, “The Messenger of Allāh \hon{\PBUH}{\BODY}
    said,
 
    ::: {custom-style="Numlist Arabic Paragraph" dir="rtl" lang="ar"}

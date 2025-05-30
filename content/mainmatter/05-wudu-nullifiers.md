@@ -3,7 +3,7 @@
 
 ## Anything that exits the two private parts
 
-Abū Hurayrah \hon{\P_HIM}{\BODY} said, “The Emissary of Allāh \hon{\PBUH}{\BODY}
+Abū Hurayrah \hon{\P_HIM}{\BODY} said, “The Messenger of Allāh \hon{\PBUH}{\BODY}
 said, ‘Allāh does not accept the prayer of any one of you having committed
 _ḥadath_ until he makes _wuḍū_.’” [Al-Bukhārī (_al-Fatḥ_, 1/206) and Muslim
 (#245)].
@@ -22,7 +22,7 @@ _ḥadath_ until he makes _wuḍū_.’” [Al-Bukhārī (_al-Fatḥ_, 1/206) an
 
 ## Sound sleep
 
-69. ʿAlī bin ʿAbī Ṭālib \hon{\P_HIM}{\BODY} said, “The Emissary of Allāh
+69. ʿAlī bin ʿAbī Ṭālib \hon{\P_HIM}{\BODY} said, “The Messenger of Allāh
     \hon{\PBUH}{\BODY} said, ‘The eye is the drawstring for the anus, so he who
     sleeps then let him make _wuḍū_.’” [Abū Dāwūd (#203), Ibn Mājah (#477), and
     Aḥmad. Declared as _ṣaḥīḥ_ by Shaykh al-Albānī].
@@ -41,20 +41,20 @@ broken or not. This is the saying of the great majority of scholars. (_Sharḥ
 
 ## Touching the genitals
 
-70. Abū Hurayrah \hon{\P_HIM}{\BODY} said, “The Emissary of Allāh
+70. Abū Hurayrah \hon{\P_HIM}{\BODY} said, “The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, ‘If one of you touches his penis and there is no veil
 between him and it nor any cover, then _wuḍū_ has become obligatory for him.’”
 [Al-Ḥākim (1/138) and others. Shaykh al-Albānī said that it is _ḥadīth ṣaḥīḥ_.]
 
 <!-- TODO Fix the footnotes here -->
 
-71. Busrah BP_HER said, “The Emissary of Allāh \hon{\PBUH}{\BODY} said, ‘If one
+71. Busrah BP_HER said, “The Messenger of Allāh \hon{\PBUH}{\BODY} said, ‘If one
 of you touches his penis then let him make _wuḍū_.’” [al-Tirmidhī (1/18) who
 said it is _ḥasan ṣaḥīḥ_. It was declared as _ṣaḥīḥ_ by Aḥmad, al-Bukhārī, and
 Ibn Maʿīn (_Lumʿāt al-Tanqīḥ Sharḥ Mishkāh al-Maṣābīḥ_, #319). Others also
 narrate it as authentic.]
 
-72. Ṭalq ibn ʿAlī \hon{\P_HIM}{\BODY} said, “The Emissary of Allāh
+72. Ṭalq ibn ʿAlī \hon{\P_HIM}{\BODY} said, “The Messenger of Allāh
 \hon{\PBUH}{\BODY} was asked about a man's touching his penis. ‘Should he make
 _wuḍū_?’ He \hon{\PBUH}{\BODY} replied, ‘And isn't it but a part of him?’”
 [al-Tirmidhī (#85) and he said: And this is the best of what is reported in this
@@ -69,7 +69,7 @@ saying _a part of him_.” [_al-Mishkāh al-Maṣābīḥ_, notes on Nos. 319--3
 
 ## Eating camel meat
 
-73. Jābir bin Samurah \hon{\P_HIM}{\BODY} narrates that a man asked the Emissary
+73. Jābir bin Samurah \hon{\P_HIM}{\BODY} narrates that a man asked the Messenger
 of Allāh \hon{\PBUH}{\BODY}, “Should I make _wuḍū_ because of the meat of
 sheep?” He \hon{\PBUH}{\BODY} said, “If you wish make _wuḍū_ and if you wish
 then do not make _wuḍū_.” He said, “Should I make _wuḍū_ from the meat of the
@@ -81,7 +81,7 @@ He asked, “May I pray in the stalls of camels?” He \hon{\PBUH}{\BODY} said,
 ## Regarding touching a woman with desire {.unnumbered}
 
 74. A man's touching a woman without desire does not break the _wuḍū_. ʿĀʾishah
-BP_HER says, “The Emissary of Allāh \hon{\PBUH}{\BODY} prayed and I was lying in
+BP_HER says, “The Messenger of Allāh \hon{\PBUH}{\BODY} prayed and I was lying in
 front of him as in front of a _janāzah_, so when he wished to prostrate I pulled
 up my leg. [al-Bukhārī and Muslim].
 
