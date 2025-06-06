@@ -24,7 +24,8 @@ Taymīyah \hon{\M_HIM}{\BODY} said:
     إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى...
     :::
 
-    «Deeds are but [judged] by intentions, and for every person [is] what they intended...»[-@bukhari, vol. 1, p. 179--80, #1]
+    «Deeds are but [judged] by intentions, and for every person [is] what they
+    intended...»[-@@bukhari, vol. 1, p. 7, #1]
 
 ## Al-Tasmīyyah (Mentioning Allāh's Name)
 
@@ -32,22 +33,29 @@ Taymīyah \hon{\M_HIM}{\BODY} said:
 \hon{\PBUH}{\BODY} said,
 
     ::: {custom-style="Numlist Arabic Paragraph" dir="rtl" lang="ar"}
-    
+    «...لَا وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللهِ عَلَيْهِ».
     :::
 
-    “There is no _wuḍū_ for him who does not mention Allāh's name upon it.”[^22]
+    “There is no _wuḍū_ for him who does not mention Allāh's for it.”[-@@ibnmajah vol. 1, p. 328, no. 403;
+    -@@abuesa16, vol. 1, p. 292, #25;
+    -@@abudawud vol. 2, p. 92, #100;
+    @@jsaghir88 vol. 2, p. 1256, #7573]
 
     Imam Aḥmad in one of his two sayings is of the opinion that it is obligatory
-    in _wuḍū_, _ghusl_, and _tayammum_. He was followed in this opinion by Abū
-    Bakr, and it is the saying of al-Ḥasan al-Baṣrī and Imam Isḥāq -- as
-    reported by Ibn Qudāmah in _al-Mughnī_ (1/84), and their proof is this
-    _ḥadīth_.
+    in _wuḍū_, _ghusl_, and _tayammum_. This was preferred by Abū Bakr, and is
+    also the opinion of al-Ḥasan al-Baṣrī and Imam Isḥāq -- as reported by the
+    Ibn Qudāmah in _al-Mughnī_[-@@mughni97, vol. 1, p. 145], and their proof is
+    this _ḥadīth_.
 
-    Ibn Qudāmah adds in _al-Mughnī_: If we take the saying that it is
-    obligatory,then the _wuḍū_ of one who deliberately leaves it is not correct
-    as he has left an obligatory duty in Purification -- just as if he had left
-    the intention; and if he left it forgetfully then his purification is
-    correct. And this is the saying that we regard as being correct.
+    Ibn Qudāmah \hon{\M_HIM}{\BODY} furthermore adds,
+
+    > If we take the saying that it is _wājib_, then the _wuḍū_ of one who
+    > deliberately leaves it is invalid as he has left a _wājib_ act in
+    > Purification -- just as if he were to leave off making the intention; but
+    > if he left it out of forgetfulness, then his purification is
+    > valid.[-@@mughni97, vol. 1, p. 146]
+
+    And this is the saying that we regard as being correct.[^khalid-tasmiyah]
 
     As for Ibn Taymīyah \hon{\M_HIM}{\BODY}, he held it to be obligatory if the
     related _ḥadīth_ was authentic -- as occurs in his _Kitāb al-Īmān_ -- and
@@ -61,23 +69,26 @@ put his hand into the water and said “Make _wuḍū_ in the name of Allāh.”
 saw the water coming out from between his fingers until they all made _wuḍū_.
 
     Thābit said: “I said to Anas \hon{\P_HIM}{\BODY}, ‘How many were there?’ He
-    said, ‘About seventy.’”[^23]
+    said, ‘About seventy.’”[-@@nasaiis, vol. 1, pp. 277--8; Khalid: The author
+    also mentioned al-Bukhārī and Muslim as references but they don't include
+    the phrase “Make _wuḍū_ in the name of Allāh.”]
 
     As for the proof for that which we have stated -- it is his
     \hon{\PBUH}{\BODY} saying “Make _wuḍū_ in the name of Allāh.” As for those
     who say that it is only _sunnah muʾakkadah_, then they base that upon the
-    relative _ḥadīth_ being weak. However since the _ḥadīth_ is _ṣaḥīḥ_ as we
+    related _ḥadīth_ being weak. However since the _ḥadīth_ is _ṣaḥīḥ_ as we
     have explained, then there remains no proof for them and the proof is with
-    us, and Allāh Knows Best.
+    us. Allāh knows best.
 
-So it is therefore obligatory as we have shown, however the one who forgets
-should mention Allāh's name when he remembers.
+    So it is therefore obligatory as we have shown. As for the one who forgets,
+    he should mention Allāh's name when he remembers.
 
 ## Washing the hands
 
 22. Humrān \hon{\P_HIM}{\BODY} narrates that ʿUthmān called for water to make
 _wuḍū_ and washed his hands three times... then said, “I saw the Messenger of
-Allāh \hon{\PBUH}{\BODY} make _wuḍū_ just as I have made _wuḍū_.”[^24]
+Allāh \hon{\PBUH}{\BODY} make _wuḍū_ just as I have made _wuḍū_.”[-@@bukhari,
+vol. 1, p. 112--3, #159--60; -@@muslim, vol. 2, p. 8, #217/1]
 
 23. Abū Hurayrah \hon{\P_HIM}{\BODY} said: the Messenger of Allāh
 \hon{\PBUH}{\BODY} said, “When one of you awakes from sleep then let him not
@@ -794,3 +805,15 @@ the _ḥadīth_ of ʿĀʾishah \hon{\P_HER}{\BODY}. As for the saying that it is
 _makrūh_, then that is not acceptable as the saying of Maymūnah
 \hon{\P_HER}{\BODY}, “but he refused it,” does not amount to the fact that it is
 _makrūh_ -- and Allāh knows best.
+
+
+[^khalid-tasmiyah]: Khalid: The position of the author Shaykh Fahd
+    \hon{\M_HIM}{\FOOTER} may be unclear. Ibn Qudāmah \hon{\M_HIM}{\FOOTER}
+    said, “*If* we take the saying that it is _wājib_,” meaning that he doesn't
+    believe it to be so but is entertaining it for the sake of argument. This is
+    also made clearer by the rest of the passage in the source. As for Ibn
+    Taymīyah's \hon{\M_HIM}{\FOOTER} saying in _Kitāb al-Īmān_, then his
+    discussion revolves around whether the phrase is a saying of a Companion or
+    the Prophet \hon{\PBUH}{\FOOTER} and not the _ḥadīth_ being authentic per
+    se; he doesn't clarify his position in his work _Sharḥ al-ʿUmdah_ either.
+    May Allah forgive our shortcomings.
