@@ -195,5 +195,6 @@
     :::
 
     «Whoever makes *wuḍūʾ* in the same manner I made *wuḍūʾ*, then prays two
-    *rakaʿahs* without letting his soul speak to itself in them, his past sins will
-    be forgiven.»”[-@@bukhari, vol. 1, p. 246, #163; -@@muslim, vol. 2, p. 8, #217/1]
+    *rakaʿahs* without letting his soul speak to itself in them, his past sins
+    will be forgiven.»”[-@@bukhari, vol. 1, p. 112--3, #159--60; -@@muslim, vol.
+    2, p. 8, #217/1]
